@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-09T19:11:42+08:00",
+  "generatedAt": "2026-06-09T19:14:59+08:00",
   "sourceType": "xiaohongshu",
   "rules": {
     "keywords": [
@@ -35,12 +35,12 @@
   },
   "stats": {
     "noteCount": 0,
-    "totalNotesInDb": 22,
-    "cutoff": "2026-06-06T19:11:42+08:00",
+    "totalNotesInDb": 5,
+    "cutoff": "2026-06-06T19:14:59+08:00",
     "skipped": {
-      "noDetail": 14,
+      "noDetail": 3,
       "noPublishTime": 0,
-      "tooOld": 8,
+      "tooOld": 2,
       "lowLikes": 0,
       "notAi": 0
     }
