@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-09T19:14:59+08:00",
+  "generatedAt": "2026-06-09T20:08:41+08:00",
   "sourceType": "xiaohongshu",
   "rules": {
     "keywords": [
@@ -34,17 +34,201 @@
     ]
   },
   "stats": {
-    "noteCount": 0,
-    "totalNotesInDb": 5,
-    "cutoff": "2026-06-06T19:14:59+08:00",
+    "noteCount": 6,
+    "totalNotesInDb": 113,
+    "cutoff": "2026-06-06T20:08:41+08:00",
     "skipped": {
-      "noDetail": 3,
+      "noDetail": 71,
       "noPublishTime": 0,
-      "tooOld": 2,
+      "tooOld": 36,
       "lowLikes": 0,
       "notAi": 0
     }
   },
-  "notes": [],
+  "notes": [
+    {
+      "id": "6a130618000000003803538a",
+      "title": "零基础安装Claude code｜总结小众问题",
+      "desc": "利用下班时间花了2个晚上成功安装到CC（Claude Code）\n由于本人小白，白中白，没学过编程的文科生，且已毕业2年，一直觉得安装这玩意很难，所以一直拖到现在终于学起来了\n主要跟着博主秋芝2046一步步来的\n.\n但是发现可能诸多原因或者不定因素，导致过程中有些问题是视频没有讲到的，需要自个摸索，所以总结了一些遇到的问题and解答\n.\n1.页面全英文\n解法：这一步要放在最开头去做！按快捷键Ctrl+shift+x（window版）在扩展插件的页面搜索Chinese,找到有Chinese（simplified）之类的安装，然后点change，再关闭整个页面重新打开\n.\n2.安装好打开的页面跟秋芝视频上不一样\n解法：在页面的右上角点击editor window\n.\n3.不会安装Claude code\n解法：直接在agent那里对话，让它自己安装\n，并且安装好之后，让它告诉你版本号，就能继续跟着视频做\n#claude #Claude #小龙虾 #ai #agent #新手 #小白学 #兴趣老师请就位 #下班后日常 #文科转码",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606091940/3b727b185cf96eb83a94fae1a39c815e/1040g2sg320i87qbgme5g4a4aj98h1ja1b8pf4p8!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a130618000000003803538a",
+      "author": "CC下班就嘻嘻",
+      "type": "normal",
+      "publishTimeText": "编辑于 3天前 广东",
+      "publishedAt": "2026-06-06T20:08:41+08:00",
+      "likedCount": 5439,
+      "collectedCount": 6167,
+      "commentCount": 164,
+      "shareCount": 0,
+      "tags": [
+        "claude",
+        "Claude",
+        "小龙虾",
+        "ai",
+        "agent",
+        "新手",
+        "小白学",
+        "兴趣老师请就位",
+        "下班后日常",
+        "文科转码"
+      ],
+      "matchedKeywords": [
+        "Claude Code"
+      ],
+      "firstSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastDetailAt": "2026-06-09T19:57:17+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a239019000000003502f4bc",
+      "title": "Codex频繁Reconnecting？给你一个终极方案",
+      "desc": "大家好，我是周武。\n\t\n最近开始尝试使用 Codex，发现刚开始用每次对话都会出现“Reconnecting 5 次”，而且回复的整体响应很慢，搞得心情也很不爽，于是开始研究怎么解决。\n\t\n🔍 为什么会一直 Reconnecting？\n\t\n研究后发现，Codex 默认会优先使用 WebSocket 进行数据传输。但普通的 shell dai li只能接管基础的 HTTP/HTTPS 网络，它不接管的 WebSocket 流量。\n当 Codex 尝试 5 次 WebSocket 连接均告失败后，为了兜底，它会降级转向 HTTPS。\n\t\n而HTTPS 的传输机制决定了它每次请求都要打包庞大的请求头，传输开销很高，体感上就会比 WebSocket 慢上数倍！\n\t\n❌ 第一次尝试：走纯 HTTPS\n做法： 既然 WebSocket 连不上，那就直接关掉它，强行让它走纯 HTTPS。\n结果： 频繁重连的信息是没了，但 HTTPS 的机制让开发体验很崩溃，这是没搞懂原理的情况下的尝试。\n\t\n❌ 第二次尝试：直接魔改 config.toml\n做法： 修改本地配置文件 ~/.codex/config.toml，在里面塞入配置（图3）。\n结果： 桌面端和插件确实都能用了，然而有一次自己手动更新了下 Codex 客户端，这个配置文件被官方的升级覆盖了！ 瞬间被打回原形 (⊙o⊙)…\n\t\n❌ 第三次尝试：用 LaunchAgent 注入系统环境变量\n做法： Codex 告诉我可以用 macOS 的 LaunchAgent 强行给全局系统注入环境变量，这样就不怕文件被覆盖了。\n结果： Codex客户端是可以了，但 VS Code 插件却不行！ 原因是插件是由 VS Code 唤起的，它根本不继承 macOS 系统的 GUI 环境变量。\n\t\n✅ 终极方案：写入 Codex 用户级环境文件 .env\nCodex 在自己翻阅了官方文档之后找到了这个方案，其实也很简单。\n\t\n📁 先找到 Codex 的全局配置文件夹，创建一个 .env 文件（图2）\n📝 然后写入的配置（图3），记得换成自己的本机端口：\n保存后，重启 Codex 和 VS Code，就可以了，升级也不会被覆盖了，响应也很流畅。\n\t\n#一人公司 #独立开发 #AI工具出海 #开发日常 #codex",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606091938/c588f4bf3cee420ee3c1c7a6e11913a2/spectrum/1040g0k03212de0ou6s005n9mq0klh9ne6u99lmo!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a239019000000003502f4bc",
+      "author": "周武说 AI",
+      "type": "normal",
+      "publishTimeText": "3天前 浙江",
+      "publishedAt": "2026-06-06T20:08:41+08:00",
+      "likedCount": 1220,
+      "collectedCount": 2427,
+      "commentCount": 106,
+      "shareCount": 0,
+      "tags": [
+        "一人公司",
+        "独立开发",
+        "AI工具出海",
+        "开发日常",
+        "codex"
+      ],
+      "matchedKeywords": [
+        "codex"
+      ],
+      "firstSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastDetailAt": "2026-06-09T19:55:29+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a22f6e40000000017029df9",
+      "title": "Anthropic为什么呼吁暂停模型研发？",
+      "desc": "Anthropic这两天发布了一篇万字长文《When AI Builds itself》，提到基于AI日益强大的风险，如果世界范围的前沿实验室能达成共识，他们愿意暂停前沿模型研发。这个事情，我尝试谈一谈自己看到的情况，关于Anthropic这个公司，关于他们怎么理解模型，怎么看待未来的可能性。#Anthropic #AI #AI安全 #大模型 #人类未来",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606091948/463cc05bba1dc126037b0d0b467a5d84/1040g2sg3211qptog7oe05nmu50lg855vukk3398!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a22f6e40000000017029df9",
+      "author": "晓辉博士",
+      "type": "video",
+      "publishTimeText": "3天前 广东",
+      "publishedAt": "2026-06-06T20:08:41+08:00",
+      "likedCount": 1171,
+      "collectedCount": 551,
+      "commentCount": 133,
+      "shareCount": 0,
+      "tags": [
+        "Anthropic",
+        "AI",
+        "AI安全",
+        "大模型",
+        "人类未来"
+      ],
+      "matchedKeywords": [
+        "模型"
+      ],
+      "firstSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastDetailAt": "2026-06-09T20:08:13+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a25566d0000000022025b16",
+      "title": "20万人点赞的Superpowers到底解决了什么",
+      "desc": "20万人点赞的Superpowers到底解决了什么 #人工智能 #大模型 #vibecoding #AI工具 #姜学长",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606091936/f6222289b4244d8edd370d853f36108e/1040g00832144vtgpmu4g5n3t9vc456j14tnfjbo!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a25566d0000000022025b16",
+      "author": "清华姜学长",
+      "type": "video",
+      "publishTimeText": "2天前 北京",
+      "publishedAt": "2026-06-07T20:08:41+08:00",
+      "likedCount": 565,
+      "collectedCount": 1017,
+      "commentCount": 13,
+      "shareCount": 0,
+      "tags": [
+        "人工智能",
+        "大模型",
+        "vibecoding",
+        "AI工具",
+        "姜学长"
+      ],
+      "matchedKeywords": [
+        "AI工具"
+      ],
+      "firstSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastDetailAt": "2026-06-09T19:51:50+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a2386be0000000021023334",
+      "title": "国内用上 Claude Code 的终极教程来了",
+      "desc": "从0到1，安装Cladue Code的手把手教程来了\n\t\n#AI #claudecode #codex #AI新手村",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606091940/19ab7f78461e48e9309fa0f08b67548d/spectrum/1040g34o3212cbb2sn2e05ns4d5fg934d83qfga0!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2386be0000000021023334",
+      "author": "跟着阿亮学AI",
+      "type": "normal",
+      "publishTimeText": "3天前 北京",
+      "publishedAt": "2026-06-06T20:08:41+08:00",
+      "likedCount": 516,
+      "collectedCount": 802,
+      "commentCount": 37,
+      "shareCount": 0,
+      "tags": [
+        "AI",
+        "claudecode",
+        "codex",
+        "AI新手村"
+      ],
+      "matchedKeywords": [
+        "Claude Code"
+      ],
+      "firstSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastDetailAt": "2026-06-09T19:56:20+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a2646bb00000000220297e8",
+      "title": "REDSkill大赏上线：发原创Skill赢显卡算力!",
+      "desc": "🥁 REDSkill大赏今日上线 🥁\n只要你发布原创Skill并成功挂载笔记，就有机会获得小红书Skill精选、行业大会曝光、拿走超硬核奖品！\n\t\n活动时间：6月8日～7月20日，在活动期间内新增发布的Skill笔记为可参加评选的笔记！\n流量激励：按要求发布RedSkill笔记即可获得：5～20w/篇流量扶持，多发多得\n\t\n⚠️Skill上传和挂载Skill笔记的发布时间都需要在活动期间内！\n⚠️参与活动投稿务必阅读笔记图P7活动规则！\n\t\n🙋🏻‍♀️投稿方向\n本次REDSkill大赏投稿分为三个方向：\n✦【工作外挂】杂乱数据秒变可视化图表、超审美ppt架构、输入JD开启面试反杀模拟.....用对Skill弹射下班\n✦【生活搭子】运动习惯养成、恋爱军师在线支招、像素级旅游路书......把焦头烂额的琐事心事交给Skill摆平\n⚽️【世界杯预言家】硬核赛事战术沙盘，推演胜率分析......打造你的专属观赛情报局Skill\n\t\n🎁每周翻牌\n✦活动期内，科技薯每周二公布上一周优质Skill，数量不定，首个翻牌日为6月16日\n✦获得翻牌的REDSkill笔记作者将获取大赏实体证书、超级行业事件曝光、100美金额度Token！奖励将于活动结束后发放\n\t\n🏆大赏奖励：\n本次大赏设立4个大奖，均奖励大赏实体证书、超级行业事件曝光、新功能优先内测权、1000美金额度Token，其他说明如下：\n✦一等奖1位：使用人数最多的Skill，额外奖励为流量券50万曝光额度、NVIDIA DGX Spark\n✦二等奖1位：综合热度最高（曝光占比30%/笔记互动数据占比30%/使用人数占比40%）的Skill，额外奖励流量券30万曝光额度、NVIDIA RTX4080\n✦三等奖1位：Skill原创数量的创作者，额外奖励流量券20万曝光额度、Apple mac mini M4 、1000美金额度Token\n⚽️世界杯专题1位：Skill热度50%+趣味性50%（由科技运营团队评判）综合评判，额外奖励为流量券20万曝光额度、世界杯特别礼包（价值5000元）\n\t\n本次REDSkill大赏结果于7月25日公布，数据周期6月8日零点～7月21日零点，公布后公示期至7月30日，公示期内无异议后将于活动结束后发放！\n\t\n投稿说明：\n1.投稿【工作流外挂】和【生活流搭子】带话题#REDSkill 发布即可，请注意需发布原创Skill并成功挂载\n2.投稿【世界杯玩家】需带双话题：#REDSkill 和#对世界杯动手了\n\t\n你最想用 Skill 解决什么问题？👇\n评论随机抽取3个送出科技薯礼物～\n#REDSkill #REDSkill大赏 #小红书Skill功能 #AI工具 #创作者激励 #Skill #AI神器",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606091944/02500c90331611ab1b3b977344765e13/notes_pre_post/1040g3k832151t19lmucg5pkcpsk0uc8tivugsho!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2646bb00000000220297e8",
+      "author": "科技薯",
+      "type": "normal",
+      "publishTimeText": "编辑于 昨天 12:48 上海",
+      "publishedAt": "2026-06-08T20:08:41+08:00",
+      "likedCount": 229,
+      "collectedCount": 167,
+      "commentCount": 63,
+      "shareCount": 0,
+      "tags": [
+        "REDSkill",
+        "REDSkill",
+        "对世界杯动手了",
+        "REDSkill",
+        "REDSkill大赏",
+        "小红书Skill功能",
+        "AI工具",
+        "创作者激励",
+        "Skill",
+        "AI神器"
+      ],
+      "matchedKeywords": [
+        "skill"
+      ],
+      "firstSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastSeenAt": "2026-06-09T19:35:28+08:00",
+      "lastDetailAt": "2026-06-09T20:01:35+08:00",
+      "matchedReason": "matched AI topic terms"
+    }
+  ],
   "errors": []
 }
