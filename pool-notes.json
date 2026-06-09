@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-06-09T19:11:42+08:00",
+  "sourceType": "xiaohongshu",
+  "rules": {
+    "keywords": [
+      "AI工具",
+      "codex",
+      "Claude Code",
+      "vibe coding",
+      "skill",
+      "agent",
+      "模型",
+      "AI工作流"
+    ],
+    "windowDays": 3,
+    "minLikedCount": 100,
+    "dedupeKey": "note_id",
+    "publicFields": [
+      "id",
+      "title",
+      "desc",
+      "cover",
+      "link",
+      "author",
+      "publishTimeText",
+      "publishedAt",
+      "likedCount",
+      "collectedCount",
+      "commentCount",
+      "shareCount",
+      "tags",
+      "matchedKeywords"
+    ]
+  },
+  "stats": {
+    "noteCount": 0,
+    "totalNotesInDb": 22,
+    "cutoff": "2026-06-06T19:11:42+08:00",
+    "skipped": {
+      "noDetail": 14,
+      "noPublishTime": 0,
+      "tooOld": 8,
+      "lowLikes": 0,
+      "notAi": 0
+    }
+  },
+  "notes": [],
+  "errors": []
+}
