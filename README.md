@@ -12,6 +12,8 @@ https://raw.githubusercontent.com/zhuangjunhong21-blip/xhs-content-pool/main/poo
 
 - 关键词：`AI工具`、`codex`、`Claude Code`、`vibe coding`、`skill`、`agent`、`模型`、`AI工作流`
 - 时间窗口：严格最近 3 天发布
+- 搜索前置过滤：小红书 2.0 在截取每次搜索返回数量前，从笔记 ID 解出创建时间，只返回最近 72 小时候选
+- 详情队列二次校验：明确超过 3 天的候选不占详情抓取名额；无法解析的候选仍保留
 - 热度阈值：点赞数 `>= 100`
 - 去重键：小红书 `note_id`
 - 内容范围：标题、正文、封面、原始链接、作者名、发布时间、互动数、标签、命中关键词
