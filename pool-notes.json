@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-11T17:46:10+08:00",
+  "generatedAt": "2026-06-12T17:55:34+08:00",
   "sourceType": "xiaohongshu",
   "rules": {
     "keywords": [
@@ -34,11 +34,11 @@
     ]
   },
   "stats": {
-    "noteCount": 41,
-    "totalNotesInDb": 152,
-    "cutoff": "2026-06-08T17:46:10+08:00",
+    "noteCount": 64,
+    "totalNotesInDb": 176,
+    "cutoff": "2026-06-09T17:55:34+08:00",
     "skipped": {
-      "noDetail": 74,
+      "noDetail": 75,
       "noPublishTime": 0,
       "tooOld": 36,
       "lowLikes": 0,
@@ -46,6 +46,36 @@
     }
   },
   "notes": [
+    {
+      "id": "6a2aa7f4000000003502bcf7",
+      "title": "最近vibe coding真实感受",
+      "desc": "#vibecoding #ai #cluade #openai #codex #aiagent",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121732/04fbae0d2eec65b53e49c2d14876d43e/notes_pre_post/1040g3k83219b6a9gn4d05nuf1670buf6ucglk60!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2aa7f4000000003502bcf7",
+      "author": "LIGHT教授",
+      "type": "normal",
+      "publishTimeText": "昨天 20:20 美国",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 7091,
+      "collectedCount": 1275,
+      "commentCount": 637,
+      "shareCount": 0,
+      "tags": [
+        "vibecoding",
+        "ai",
+        "cluade",
+        "openai",
+        "codex",
+        "aiagent"
+      ],
+      "matchedKeywords": [
+        "vibe coding"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:47:54+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
     {
       "id": "6a130618000000003803538a",
       "title": "零基础安装Claude code｜总结小众问题",
@@ -55,7 +85,7 @@
       "author": "CC下班就嘻嘻",
       "type": "normal",
       "publishTimeText": "编辑于 3天前 广东",
-      "publishedAt": "2026-06-08T17:46:10+08:00",
+      "publishedAt": "2026-06-09T17:55:34+08:00",
       "likedCount": 5439,
       "collectedCount": 6167,
       "commentCount": 164,
@@ -84,15 +114,15 @@
       "id": "6a280fec000000002003a484",
       "title": "国内爽用Claude Code + Codex，2分钟搞定！",
       "desc": "2 分钟，教你国内爽用 Claude Code + Codex！保姆级教程 #AI #AI编程 #程序员#vibecoding #编程",
-      "cover": "http://sns-webpic-qc.xhscdn.com/202606111723/75e17b32df58b5ec9daecd28e303f0e3/spectrum/1040g0k03216q03apms005ne6jmv08im06f7o460!nc_n_webp_mw_1",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121730/d269f99128588874e5fe5a6c1ca88696/spectrum/1040g0k03216q03apms005ne6jmv08im06f7o460!nc_n_webp_mw_1",
       "link": "https://www.xiaohongshu.com/explore/6a280fec000000002003a484",
       "author": "程序员鱼皮",
       "type": "video",
-      "publishTimeText": "1天前 上海",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
-      "likedCount": 4237,
-      "collectedCount": 8461,
-      "commentCount": 95,
+      "publishTimeText": "2天前 上海",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 5154,
+      "collectedCount": 10000,
+      "commentCount": 120,
       "shareCount": 0,
       "tags": [
         "AI",
@@ -106,8 +136,8 @@
         "codex"
       ],
       "firstSeenAt": "2026-06-10T17:26:07+08:00",
-      "lastSeenAt": "2026-06-11T17:20:26+08:00",
-      "lastDetailAt": "2026-06-11T17:37:31+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:44:24+08:00",
       "matchedReason": "matched AI topic terms"
     },
     {
@@ -119,7 +149,7 @@
       "author": "数字生命卡兹克",
       "type": "normal",
       "publishTimeText": "编辑于 2天前 北京",
-      "publishedAt": "2026-06-09T17:46:10+08:00",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
       "likedCount": 4230,
       "collectedCount": 1199,
       "commentCount": 210,
@@ -153,7 +183,7 @@
       "author": "吐槽专用号",
       "type": "normal",
       "publishTimeText": "编辑于 3小时前 四川",
-      "publishedAt": "2026-06-11T14:46:10+08:00",
+      "publishedAt": "2026-06-12T14:55:34+08:00",
       "likedCount": 3720,
       "collectedCount": 2235,
       "commentCount": 1519,
@@ -168,6 +198,38 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a2aa79a000000002202cbe3",
+      "title": "Claude Code Skill 0基础看这一条就够了",
+      "desc": "Claude Code Skill 0基础看这一条就够了 #人工智能 #大模型  #AI工具 #skills #姜学长",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121738/7e7f1492d18d77100de1a83565aeb737/1040g0083219b2r536u6g5n3t9vc456j12pne2fg!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2aa79a000000002202cbe3",
+      "author": "清华姜学长",
+      "type": "video",
+      "publishTimeText": "昨天 20:18 北京",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 2669,
+      "collectedCount": 5023,
+      "commentCount": 49,
+      "shareCount": 0,
+      "tags": [
+        "人工智能",
+        "大模型",
+        "AI工具",
+        "skills",
+        "姜学长"
+      ],
+      "matchedKeywords": [
+        "AI工具",
+        "Claude Code",
+        "skill",
+        "模型"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:41:56+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a267842000000001702e5bc",
       "title": "10分钟教会你0成本用上Codex！",
       "desc": "#ai #agent #智能体 #codex",
@@ -176,7 +238,7 @@
       "author": "暴走的阿川",
       "type": "video",
       "publishTimeText": "2天前 北京",
-      "publishedAt": "2026-06-09T17:46:10+08:00",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
       "likedCount": 2391,
       "collectedCount": 4163,
       "commentCount": 113,
@@ -196,6 +258,33 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a28fb86000000003501eef4",
+      "title": "Claude 模型取名好浪漫啊",
+      "desc": "达里奥还是更有文化一些,虽然神神叨叨的\n#大模型 #ai #claude",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121737/855720d3bc6bfbd4326b51252feed582/spectrum/1040g34o3217msdgm72104a2vm57clsqlme07upg!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a28fb86000000003501eef4",
+      "author": "猛团一号",
+      "type": "normal",
+      "publishTimeText": "2天前 北京",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 1936,
+      "collectedCount": 543,
+      "commentCount": 230,
+      "shareCount": 0,
+      "tags": [
+        "大模型",
+        "ai",
+        "claude"
+      ],
+      "matchedKeywords": [
+        "模型"
+      ],
+      "firstSeenAt": "2026-06-11T17:20:26+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:54:35+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a2760c10000000022027b66",
       "title": "一万块的vibe coding键盘（预告）",
       "desc": "做了一个简单的效果展示！Teenage engineering的TP-7是我最喜欢的硬件设备之一。我写了一个小插件将TP7的按键和转盘完全映射到claude code的控制，还可以切换不同agent、显示agent工作状态等。可惜TE并没有正式开放TP7的接口，功能上还是比较受限的。\n\t\n另外一个场景是语音输入。在非AI的应用中，TP7会自动变成一个语音输入终端，可以支持多语言、在tp7上切换语言、编辑输入内容等。完全在local完成，不需要联网或接入额外的api。\n\t\n原本只是作为一个玩具性质的side project，实际测试后发现因为TP7麦克风收音音质非常好，语音辨识的准确度比我电脑内建的mic更好！目前已经全方面使用TP7来操控Claude code 了。\n\t\n目前整个app还在开发中（mac原生，直接打包了语音输入的local model）！大家有想到有趣的功能也可以告诉我，开发完成后会直接开源。\n\t\n#先进生产力 #游戏外设 #vibecoding #claude #teenageengineering #tp7 #键盘",
@@ -204,7 +293,7 @@
       "author": "小皮鯊魚",
       "type": "video",
       "publishTimeText": "昨天 08:39 美国",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 1852,
       "collectedCount": 913,
       "commentCount": 229,
@@ -228,33 +317,6 @@
       "matchedReason": "matched AI topic terms"
     },
     {
-      "id": "6a28fb86000000003501eef4",
-      "title": "Claude 模型取名好浪漫啊",
-      "desc": "达里奥还是更有文化一些,虽然神神叨叨的\n#大模型 #ai #claude",
-      "cover": "http://sns-webpic-qc.xhscdn.com/202606111733/64827e5029d6a2903149abb5c603b10b/spectrum/1040g34o3217msdgm72104a2vm57clsqlme07upg!nc_n_webp_mw_1",
-      "link": "https://www.xiaohongshu.com/explore/6a28fb86000000003501eef4",
-      "author": "猛团一号",
-      "type": "normal",
-      "publishTimeText": "昨天 13:52 北京",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
-      "likedCount": 1829,
-      "collectedCount": 515,
-      "commentCount": 226,
-      "shareCount": 0,
-      "tags": [
-        "大模型",
-        "ai",
-        "claude"
-      ],
-      "matchedKeywords": [
-        "模型"
-      ],
-      "firstSeenAt": "2026-06-11T17:20:26+08:00",
-      "lastSeenAt": "2026-06-11T17:20:26+08:00",
-      "lastDetailAt": "2026-06-11T17:43:51+08:00",
-      "matchedReason": "matched AI topic terms"
-    },
-    {
       "id": "6a2571ff0000000036002765",
       "title": "AI工具太难找？普通人用GitHub迅速挖到宝",
       "desc": "#skill #vibecoding大赏 #Claude #AI工具 #大模型 #AI人工智能#github开源项目推荐 #ai",
@@ -263,7 +325,7 @@
       "author": "Xiangzi.ai",
       "type": "video",
       "publishTimeText": "2天前 浙江",
-      "publishedAt": "2026-06-09T17:46:10+08:00",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
       "likedCount": 1795,
       "collectedCount": 3647,
       "commentCount": 21,
@@ -287,6 +349,69 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a290ef000000000350278da",
+      "title": "Fable5模型跑高难度任务测试：很强但还不够",
+      "desc": "用 Claude Fable 5 测了 5 个 Agent 作品后，感受是：Agent 已经接近“专业创作团队”了。\n\t\n它能围绕一个开放式目标，连续自我优化数小时；视觉推理明显跃升，整体质量长期压过 Opus 4.8，有些案例\n成本还更低。\n\t\n这次我们测了 5 个高难度任务：\n1️⃣基于 NASA 数据，可视化太阳系所有小行星；\n2️⃣设计 100 英亩健身度假村；\n3️⃣从技术 PDF 重建阿波罗控制面板；\n4️⃣模拟世界杯球衣销量供应链；\n5️⃣以及展示太阳耀斑对极光的影响。\n\t\nFable 5 不只是完成任务，它会补细节、做推理、考虑动线、性能和全球变量。\n而 Opus 4.8 在多个案例里，要么细节缺失，要么范围变窄，甚至有作品根本没加载成功。\n\t\nFable 5 在 Hyperagent 上，展现出长时间迭代、交付复杂作品的能力了，Mythos等级模型确实拥有某些领域的突出能力。\n#claudecode #codex #ai工具 #Mythos #大模型",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121738/d543e29495f5304b9ed4c01c6a8c2a38/1040g2sg3217p44kvn0e05q0aufr3jmqdkmac6vg!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a290ef000000000350278da",
+      "author": "老廖Agent实验室",
+      "type": "video",
+      "publishTimeText": "2天前 四川",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 1433,
+      "collectedCount": 919,
+      "commentCount": 50,
+      "shareCount": 0,
+      "tags": [
+        "claudecode",
+        "codex",
+        "ai工具",
+        "Mythos",
+        "大模型"
+      ],
+      "matchedKeywords": [
+        "模型"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:54:04+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a292243000000002100be6e",
+      "title": "又Vibe coding 了一个作品集网页",
+      "desc": "之前的动画oc因为涉及到版权所以删除啦🙏\n连肝几天原创了一个自己的oc模特（穿衣风格完全按照我的y2k风格）\n首页的动画灵感来源于@MMX 老师\n动画依旧是复刻上一版本的，但是这次费了很多力气，上次是很短的提示词一次抽卡出的，这次就做了很多分镜图和脚本提示词才勉强出来。\n结尾这次新增了一个滚动鼠标的穿梭动画！灵感来源于@傅博熊 老师\n预计这周全部做完后我录教程～✌️\n保佑我快点找到工作🥺大佬看看我🥺\n#网页设计 #网站制作 #作品集网站#aigc #oc #交互设计 #交互设计作品集 #vibecoding #claude #作品集",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121733/d004560a40f55de34c5d02a7494c97f2/1040g2sg3217qevmmnaeg5pqt18jm3ls3fmm2lpg!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a292243000000002100be6e",
+      "author": "灵灵妮大王",
+      "type": "video",
+      "publishTimeText": "编辑于 1天前 上海",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 1318,
+      "collectedCount": 1020,
+      "commentCount": 96,
+      "shareCount": 0,
+      "tags": [
+        "网页设计",
+        "网站制作",
+        "作品集网站",
+        "aigc",
+        "oc",
+        "交互设计",
+        "交互设计作品集",
+        "vibecoding",
+        "claude",
+        "作品集"
+      ],
+      "matchedKeywords": [
+        "vibe coding"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:48:47+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a239019000000003502f4bc",
       "title": "Codex频繁Reconnecting？给你一个终极方案",
       "desc": "大家好，我是周武。\n\t\n最近开始尝试使用 Codex，发现刚开始用每次对话都会出现“Reconnecting 5 次”，而且回复的整体响应很慢，搞得心情也很不爽，于是开始研究怎么解决。\n\t\n🔍 为什么会一直 Reconnecting？\n\t\n研究后发现，Codex 默认会优先使用 WebSocket 进行数据传输。但普通的 shell dai li只能接管基础的 HTTP/HTTPS 网络，它不接管的 WebSocket 流量。\n当 Codex 尝试 5 次 WebSocket 连接均告失败后，为了兜底，它会降级转向 HTTPS。\n\t\n而HTTPS 的传输机制决定了它每次请求都要打包庞大的请求头，传输开销很高，体感上就会比 WebSocket 慢上数倍！\n\t\n❌ 第一次尝试：走纯 HTTPS\n做法： 既然 WebSocket 连不上，那就直接关掉它，强行让它走纯 HTTPS。\n结果： 频繁重连的信息是没了，但 HTTPS 的机制让开发体验很崩溃，这是没搞懂原理的情况下的尝试。\n\t\n❌ 第二次尝试：直接魔改 config.toml\n做法： 修改本地配置文件 ~/.codex/config.toml，在里面塞入配置（图3）。\n结果： 桌面端和插件确实都能用了，然而有一次自己手动更新了下 Codex 客户端，这个配置文件被官方的升级覆盖了！ 瞬间被打回原形 (⊙o⊙)…\n\t\n❌ 第三次尝试：用 LaunchAgent 注入系统环境变量\n做法： Codex 告诉我可以用 macOS 的 LaunchAgent 强行给全局系统注入环境变量，这样就不怕文件被覆盖了。\n结果： Codex客户端是可以了，但 VS Code 插件却不行！ 原因是插件是由 VS Code 唤起的，它根本不继承 macOS 系统的 GUI 环境变量。\n\t\n✅ 终极方案：写入 Codex 用户级环境文件 .env\nCodex 在自己翻阅了官方文档之后找到了这个方案，其实也很简单。\n\t\n📁 先找到 Codex 的全局配置文件夹，创建一个 .env 文件（图2）\n📝 然后写入的配置（图3），记得换成自己的本机端口：\n保存后，重启 Codex 和 VS Code，就可以了，升级也不会被覆盖了，响应也很流畅。\n\t\n#一人公司 #独立开发 #AI工具出海 #开发日常 #codex",
@@ -295,7 +420,7 @@
       "author": "周武说 AI",
       "type": "normal",
       "publishTimeText": "3天前 浙江",
-      "publishedAt": "2026-06-08T17:46:10+08:00",
+      "publishedAt": "2026-06-09T17:55:34+08:00",
       "likedCount": 1226,
       "collectedCount": 2427,
       "commentCount": 106,
@@ -316,6 +441,40 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a27ecaa00000000350313a8",
+      "title": "印占Skill 6.0更新！打通排盘最后一公里！",
+      "desc": "我回来了！我来更新了！\n前一段时间受额度影响开发暂停了一段时间，本来说好两天后更新的我拖到了现在，但！今天给大家带来最新的更新！集成了排盘calculator子skill的全新6.0版本！\n之前我还认为5.0会是最终稳定版本，但让大家很开心（？）的是我食言了…就把6.0当成pro的第一次下放更新好了。\n没办法，大家的呼声实在太高，而且排盘与读盘一直也是一大用户痛点。排盘本身就很困难，再加上agent在没有很好的多模态能力的情况下，从视觉提取经常会把pdf的信息读错，导致整个分析崩掉重来的情况也时常存在。我之前也无数次写规则加上强制截图补录来避免错误，但无奈仍是总有漏网之鱼。（但主盘和d9绝对不会错，这个有多重交叉验证，可以保证大方向稳定不失。代分析的大家我都会人工重复交叉检证确保没有问题。）另外，即使可以读对，复杂的视觉验证和数学校验也让token消耗与时间的浪费大大增长。为了减少大家的工作量，也减少ai的工作量来间接保护大家的金币，我去集百家之所长，以jhora为标准，翻阅了和它同源的pyjhora算法库，另外参考其他成熟网站的排盘方式，自己反复用真实盘面做对比，最终完成了原生排盘工具子skill——vedic calculator的开发与上线！大家可以来体验啦！基本真正实现无需排盘，无需pdf，给出出生时间地点即可进行全套分析的流程！\n下面介绍一下它的主要功能！不仅只是排盘，也赋能了其他部分，尤其是大家最需要的时间校正，现在可以瞬间算出新时间的盘来对照，大大提升了准确度！\n最后，我来给未来的开发与更新方向做一个小预告～首先是大家一直期待的合盘功能已经在开发当中了，如果大家对合盘有什么期待的话可以评论区告诉我。另外pro版本skill也在紧锣密鼓地继续完善中！开发出来之后可能会让大家先体验，未来会作为上线网页版本的技术支持来源～\n在这里放一个投票，看看大家对什么的期待更高。\n\t\n那还是老样子！戳我获取Skill和寻求帮助！一定不让大家的token白花！\n#skill #vibecoding大赏 #vibecoding #rednoteuni #MBTI #夏日消暑风味集 #夏日手作howto #AI工具 #人生无限club #生时校正",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121733/14a060dd9c5c04f0771f701e8cabd826/1040g2sg3216kmv7c74e05o1fd3lg9dj6d62ob20!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a27ecaa00000000350313a8",
+      "author": "男根虽被踢尿未曾失（12-4点在线）",
+      "type": "normal",
+      "publishTimeText": "编辑于 昨天 11:23 北京",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 1190,
+      "collectedCount": 911,
+      "commentCount": 155,
+      "shareCount": 0,
+      "tags": [
+        "skill",
+        "vibecoding大赏",
+        "vibecoding",
+        "rednoteuni",
+        "MBTI",
+        "夏日消暑风味集",
+        "夏日手作howto",
+        "AI工具",
+        "人生无限club",
+        "生时校正"
+      ],
+      "matchedKeywords": [
+        "skill"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:49:12+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a22f6e40000000017029df9",
       "title": "Anthropic为什么呼吁暂停模型研发？",
       "desc": "Anthropic这两天发布了一篇万字长文《When AI Builds itself》，提到基于AI日益强大的风险，如果世界范围的前沿实验室能达成共识，他们愿意暂停前沿模型研发。这个事情，我尝试谈一谈自己看到的情况，关于Anthropic这个公司，关于他们怎么理解模型，怎么看待未来的可能性。#Anthropic #AI #AI安全 #大模型 #人类未来",
@@ -324,7 +483,7 @@
       "author": "晓辉博士",
       "type": "video",
       "publishTimeText": "3天前 广东",
-      "publishedAt": "2026-06-08T17:46:10+08:00",
+      "publishedAt": "2026-06-09T17:55:34+08:00",
       "likedCount": 1171,
       "collectedCount": 551,
       "commentCount": 133,
@@ -353,7 +512,7 @@
       "author": "小林 AI",
       "type": "normal",
       "publishTimeText": "编辑于 5小时前 澳大利亚",
-      "publishedAt": "2026-06-11T12:46:10+08:00",
+      "publishedAt": "2026-06-12T12:55:34+08:00",
       "likedCount": 1058,
       "collectedCount": 260,
       "commentCount": 388,
@@ -384,7 +543,7 @@
       "author": "科技薯",
       "type": "normal",
       "publishTimeText": "编辑于 2天前 上海",
-      "publishedAt": "2026-06-09T17:46:10+08:00",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
       "likedCount": 933,
       "collectedCount": 848,
       "commentCount": 152,
@@ -410,6 +569,67 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a2a82360000000036003660",
+      "title": "一个视频学会把Codex接入飞书",
+      "desc": "让 Agent 进入真正的工作流\n\t\n#飞书 #Codex #Agent #AI工具 #效率神器 #开发者模式 #榨干设备howto",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121736/e16f7d61c781ea3d8cb736537eee2793/spectrum/1040g34o321967n3r72105ongjbnnotmj2q1f2b0!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2a82360000000036003660",
+      "author": "飞书",
+      "type": "video",
+      "publishTimeText": "昨天 17:39 浙江",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 914,
+      "collectedCount": 1221,
+      "commentCount": 46,
+      "shareCount": 0,
+      "tags": [
+        "飞书",
+        "Codex",
+        "Agent",
+        "AI工具",
+        "效率神器",
+        "开发者模式",
+        "榨干设备howto"
+      ],
+      "matchedKeywords": [
+        "agent"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:50:56+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a281a35000000001702a85f",
+      "title": "别再导出Excel了！AI直连你的Power BI模型",
+      "desc": "本期分享一套我最近在跑的 AI+BI 工作流。Claude Code 通过 Power BI MCP 直连 Power BI 数据模型，不用导出 Excel 再喂给 AI：\n\t\n1️⃣ Claude Code 连接 Power BI 极简方案：共四步，下载 VS Code + Claude Code、获取模型 Token、配置 Claude Code、安装配置 Power BI MCP。\n2️⃣ 本地模型方案：在不方便使用云端大模型的情况下，用铭凡 MS-S1 Max AI 迷你工作站 + Qwen 3.6 27B 本地模型连接 Power BI。给企业 AI+BI 本地化部署的朋友参考。\n3️⃣ AI 接入 BI 后的用法：辅助 Power BI 开发、生成可视化 HTML 界面、探索式数据分析。高频流程还可以沉淀成 SKILL 方便复用。\n\t\n#数据分析 #AI工具 #powerbi #本地模型 #claudecode #人工智能",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121740/06fd65762272a96a2150b65686393e35/spectrum/1040g0k03215ghedmn4004bl6a6cuqmj8pcjd7fo!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a281a35000000001702a85f",
+      "author": "PowerBI减法君",
+      "type": "video",
+      "publishTimeText": "2天前 广东",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 910,
+      "collectedCount": 1391,
+      "commentCount": 34,
+      "shareCount": 0,
+      "tags": [
+        "数据分析",
+        "AI工具",
+        "powerbi",
+        "本地模型",
+        "claudecode",
+        "人工智能"
+      ],
+      "matchedKeywords": [
+        "AI工作流"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:55:34+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a28d21e000000001700ae62",
       "title": "教你用 Claude Code 把任意书籍变成SKill！",
       "desc": "这是一个能够把任何一本书，变成一个Claude Code Skill技能的开源项目，名字叫做 book-to-skill，短短一个月就获得了4600多个star！#vibecoding #claudecode #claude #电子书 #skill #技能 #AI工具 #github #开源项目",
@@ -418,7 +638,7 @@
       "author": "我是阿众",
       "type": "video",
       "publishTimeText": "昨天 10:55 美国",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 845,
       "collectedCount": 2022,
       "commentCount": 15,
@@ -452,7 +672,7 @@
       "author": "科技先森",
       "type": "normal",
       "publishTimeText": "2天前 河南",
-      "publishedAt": "2026-06-09T17:46:10+08:00",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
       "likedCount": 837,
       "collectedCount": 291,
       "commentCount": 37,
@@ -478,18 +698,48 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a27dfd10000000007026c29",
+      "title": "不用手改配置解决Codex5次重连Reconnecting",
+      "desc": "#人工智能 #AI工具 #codex #ai #chatgpt",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121728/b1b7fc7c065c73ffa187afeae1cf9e96/spectrum/1040g0k03216k43q574005o8q7bn85bf9abounpo!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a27dfd10000000007026c29",
+      "author": "码里奥Ziho",
+      "type": "video",
+      "publishTimeText": "3天前 四川",
+      "publishedAt": "2026-06-09T17:55:34+08:00",
+      "likedCount": 825,
+      "collectedCount": 1463,
+      "commentCount": 41,
+      "shareCount": 0,
+      "tags": [
+        "人工智能",
+        "AI工具",
+        "codex",
+        "ai",
+        "chatgpt"
+      ],
+      "matchedKeywords": [
+        "AI工具",
+        "codex"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:42:51+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a27fd2600000000220258bc",
       "title": "Codex为什么突然这么火？",
       "desc": "Codex为什么突然这么火？#人工智能 #大模型 #AI工具 #codex #姜学长",
-      "cover": "http://sns-webpic-qc.xhscdn.com/202606111733/561cc8c0539b8b4b7c11a5e3fdfb00eb/1040g0083216nrtnjn06g5n3t9vc456j1ddnfdj8!nc_n_webp_mw_1",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121728/fcfc48e35927e47adc7ef23a3fafcaec/1040g0083216nrtnjn06g5n3t9vc456j1ddnfdj8!nc_n_webp_mw_1",
       "link": "https://www.xiaohongshu.com/explore/6a27fd2600000000220258bc",
       "author": "清华姜学长",
       "type": "video",
-      "publishTimeText": "1天前 北京",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
-      "likedCount": 712,
-      "collectedCount": 563,
-      "commentCount": 61,
+      "publishTimeText": "2天前 北京",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 802,
+      "collectedCount": 641,
+      "commentCount": 70,
       "shareCount": 0,
       "tags": [
         "人工智能",
@@ -503,23 +753,52 @@
         "模型"
       ],
       "firstSeenAt": "2026-06-10T17:26:07+08:00",
-      "lastSeenAt": "2026-06-11T17:20:26+08:00",
-      "lastDetailAt": "2026-06-11T17:36:36+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:43:26+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a29a78d000000000e031400",
+      "title": "Fable 5 的安全检测，真的稳了吗？",
+      "desc": "🔥 Fable 5 一出来，对大模型安全领域，尤其是 Jailbreak 研究，影响非常大。\n它是 Anthropic 公开版的 Mythos-class 模型，能力很强，但外面加了一层 Safety Classifier。很多 cyber / science 相关请求都会被拦截，或者被切到 Opus 4.8。\n\t\n这让很多人产生了一个直觉：是不是传统安全研究已经很难推进了？是不是最前沿模型的检测器已经足够强了？我们今天测试了一下 Fable 5，结果很意外：不到 1 分钟，我们就成功绕过了它的检测器，并让它产生了不恰当输出。\n\t\n方法来自我们 3 月份的论文：**Internal Safety Collapse（ISC）**：当一个 agent 在没有用户干预的环境下，自主完成一个 long-horizon goal 时，它可能会出现 **self-jailbreak**。\n也就是说，用户并没有直接要求它生成不恰当内容。Agent 只是在 任务里规划、执行、检查、修复；但在某一步，它自己推导出：为了完成目标，下一步需要产生风险输出。\n\t\n🧠 所以，Fable 5 没有大家想象得那么“无懈可击”。\n\t\n这也许是红队研究接下来很重要的一种新思路：不要只研究怎么写更隐蔽的 prompt或者多轮，而是把攻击镶嵌在能力里面。\n\t\n目前我们已经开源：支持复现，也支持验证。\n📄 论文：arXiv 2603.23509\n#AI安全 #大模型 #Claude #Agent #论文分享",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121736/2c18e4a4098cd5a1800e1e2483c4a233/oss-sg/notes_pre_post/1040g3mo3218aphkrng205n13fkt190kmops7b98!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a29a78d000000000e031400",
+      "author": "wuyoscar",
+      "type": "normal",
+      "publishTimeText": "编辑于 2小时前 澳大利亚",
+      "publishedAt": "2026-06-12T15:55:34+08:00",
+      "likedCount": 770,
+      "collectedCount": 797,
+      "commentCount": 119,
+      "shareCount": 0,
+      "tags": [
+        "AI安全",
+        "大模型",
+        "Claude",
+        "Agent",
+        "论文分享"
+      ],
+      "matchedKeywords": [
+        "agent"
+      ],
+      "firstSeenAt": "2026-06-11T17:20:26+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:52:59+08:00",
       "matchedReason": "matched AI topic terms"
     },
     {
       "id": "6a284b36000000003501d63c",
       "title": "我靠，Claude Fable 5突然上线了！！",
       "desc": "我去！！！Claude Fable 5突然上了！！\n\t\n已经在Claude中可用。\n\t\n根据官方介绍，这个是确保可安全供大众使用的 Mythos 级模型。\n并且，其能力超越以往公开发布的任何模型。\n\t\n在几乎所有测试基准中均达到业界领先水平，在软件工程、知识工作、科学研究和视觉领域表现尤为卓越。\n\t\n而且，任务越复杂、耗时越长，Fable 5 相较于其他模型的优势就越显著。\n\t\nClaude Mythos其实早就曝光了，之所以拖这么久，就是觉得这么模型太强了，强到爆炸，害怕被一些别有用心的人在网络安全等领域的能力滥用，造成严重损害。\n\t\n熬夜测评去了。。。\n#AI #AIChannel #AI新手村 #Claudecode #vibecoding #AI工具 #人工智能 #大模型",
-      "cover": "http://sns-webpic-qc.xhscdn.com/202606101730/3d353129ca5f4989b8c92b0fdbb3cd01/notes_pre_post/1040g3k8321715m9amu805om9gsr5bo3l1ldg92o!nc_n_webp_mw_1",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121726/cd3d6de7ebd63d949947ec17c17a9877/notes_pre_post/1040g3k8321715m9amu805om9gsr5bo3l1ldg92o!nc_n_webp_mw_1",
       "link": "https://www.xiaohongshu.com/explore/6a284b36000000003501d63c",
       "author": "数字生命卡兹克",
       "type": "normal",
-      "publishTimeText": "16小时前 北京",
-      "publishedAt": "2026-06-11T01:46:10+08:00",
-      "likedCount": 672,
-      "collectedCount": 157,
-      "commentCount": 195,
+      "publishTimeText": "2天前 北京",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 764,
+      "collectedCount": 194,
+      "commentCount": 210,
       "shareCount": 0,
       "tags": [
         "AI",
@@ -532,11 +811,107 @@
         "大模型"
       ],
       "matchedKeywords": [
+        "Claude Code",
+        "AI工具"
+      ],
+      "firstSeenAt": "2026-06-10T17:26:07+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:42:18+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a2941e8000000002103e1fb",
+      "title": "从今天开始子代理彻底放不出来了",
+      "desc": "今天突发的情况，Claude Code 的 VS Code 插件版，我发现突然放不出来子代理了，然后切换到老版本的 CLI 版居然也放不出来了。更别提最近新出的 Worker Flow 功能。\nA 社是真恶心。并且我已经替大家试了，170版本自不用说， 降级到 166、167、168、169 都不可以。\n当然了，也有解决办法。\n一是订阅 A 社官方的服务，\n二是更换 Open Code。\n#vibecoding大赏 #openclaw #mimo死循环",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121730/844bb8da04323a79b96d8ad79e4e97f1/1040g0083217vesffnu3g4a6s3p8mingv8v64kdo!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2941e8000000002103e1fb",
+      "author": "huoxuebin",
+      "type": "normal",
+      "publishTimeText": "1天前 河北",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 761,
+      "collectedCount": 967,
+      "commentCount": 122,
+      "shareCount": 0,
+      "tags": [
+        "vibecoding大赏",
+        "openclaw",
+        "mimo"
+      ],
+      "matchedKeywords": [
+        "Claude Code"
+      ],
+      "firstSeenAt": "2026-06-11T17:20:26+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:46:39+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a29cad4000000001702e33a",
+      "title": "官方给的 Fable 5 提示词手册",
+      "desc": "Anthropic 自己写了一份：Fable 5 该怎么提示。结论有点反直觉——模型越强，提示反而要越短。\n\t\n别再手把手列规则了。能动手就动手、没让改就别改、进度报告要有凭证、最后那段话记得说人话……11 条官方模式，每条都附了能直接抄的英文 prompt。\n\t\n原文：Anthropic 官方文档 Prompting Claude Fable 5。\n\t\n#Claude #ClaudeFable5 #AI提示词 #prompt #提示词工程 #AI编程 #ClaudeCode #大模型 #AI工具 #克劳得Everything",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121730/dc4e7ad61cc64d8e319bb3412106292e/notes_pre_post/1040g3k032187e3l5na0g5q124ch22vkr2l5nm98!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a29cad4000000001702e33a",
+      "author": "克劳得Everything",
+      "type": "normal",
+      "publishTimeText": "昨天 08:42 北京",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 667,
+      "collectedCount": 973,
+      "commentCount": 8,
+      "shareCount": 0,
+      "tags": [
+        "Claude",
+        "ClaudeFable5",
+        "AI提示词",
+        "prompt",
+        "提示词工程",
+        "AI编程",
+        "ClaudeCode",
+        "大模型",
+        "AI工具",
+        "克劳得Everything"
+      ],
+      "matchedKeywords": [
+        "Claude Code"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:47:30+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a28e823000000001603faf3",
+      "title": "Claude Code 团队用 Fable 5 的三个方法",
+      "desc": "6 月 9 日 Anthropic 官方放出一支 3 分钟视频，Claude Code 团队的 Thariq 讲他用最强模型 Fable 5 之后改掉的 3 件事：把 Claude 当思考伙伴，先让它反过来采访你再写 spec；用新功能 Goals 和 Workflows 给它设目标加自验；以及更大胆，把你以为大模型做不到的事丢给它试。\n\t\n#Claude #ClaudeCode #ClaudeCode教程 #Fable5 #AI编程 #vibecoding #AIagent #AI工作流 #Anthropic #克劳得Everything",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121730/43796faeb6993533b1450d64a65444e0/1040g0083217kgo6g7u005q124ch22vkrk7taol0!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a28e823000000001603faf3",
+      "author": "克劳得Everything",
+      "type": "video",
+      "publishTimeText": "2天前 北京",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 639,
+      "collectedCount": 623,
+      "commentCount": 25,
+      "shareCount": 0,
+      "tags": [
+        "Claude",
+        "ClaudeCode",
+        "ClaudeCode教程",
+        "Fable5",
+        "AI编程",
+        "vibecoding",
+        "AIagent",
+        "AI工作流",
+        "Anthropic",
+        "克劳得Everything"
+      ],
+      "matchedKeywords": [
         "Claude Code"
       ],
       "firstSeenAt": "2026-06-10T17:26:07+08:00",
-      "lastSeenAt": "2026-06-10T17:26:07+08:00",
-      "lastDetailAt": "2026-06-10T17:47:30+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:46:10+08:00",
       "matchedReason": "matched AI topic terms"
     },
     {
@@ -548,7 +923,7 @@
       "author": "清华姜学长",
       "type": "video",
       "publishTimeText": "2天前 北京",
-      "publishedAt": "2026-06-09T17:46:10+08:00",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
       "likedCount": 605,
       "collectedCount": 1094,
       "commentCount": 13,
@@ -569,33 +944,6 @@
       "matchedReason": "matched AI topic terms"
     },
     {
-      "id": "6a2941e8000000002103e1fb",
-      "title": "从今天开始子代理彻底放不出来了",
-      "desc": "今天突发的情况，Claude Code 的 VS Code 插件版，我发现突然放不出来子代理了，然后切换到老版本的 CLI 版居然也放不出来了。更别提最近新出的 Worker Flow 功能。\nA 社是真恶心。并且我已经替大家试了，170版本自不用说， 降级到 166、167、168、169 都不可以。\n当然了，也有解决办法。\n一是订阅 A 社官方的服务，\n二是更换 Open Code。\n#vibecoding大赏 #openclaw #mimo死循环",
-      "cover": "http://sns-webpic-qc.xhscdn.com/202606111724/67c6e35b69d28c1d2955b059e7120551/1040g0083217vesffnu3g4a6s3p8mingv8v64kdo!nc_n_webp_mw_1",
-      "link": "https://www.xiaohongshu.com/explore/6a2941e8000000002103e1fb",
-      "author": "huoxuebin",
-      "type": "normal",
-      "publishTimeText": "昨天 18:52 河北",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
-      "likedCount": 593,
-      "collectedCount": 757,
-      "commentCount": 102,
-      "shareCount": 0,
-      "tags": [
-        "vibecoding大赏",
-        "openclaw",
-        "mimo"
-      ],
-      "matchedKeywords": [
-        "Claude Code"
-      ],
-      "firstSeenAt": "2026-06-11T17:20:26+08:00",
-      "lastSeenAt": "2026-06-11T17:20:26+08:00",
-      "lastDetailAt": "2026-06-11T17:40:20+08:00",
-      "matchedReason": "matched AI topic terms"
-    },
-    {
       "id": "6a255ee8000000001c02788b",
       "title": "Claude千万别裸装，这几个skills必须装上！",
       "desc": "推荐几个Claude code最近比较热门的skills，如果不会安装的话可以在评论区问我，看到了都会认真回复的！如果没回复再敲我几次。\n\t\n#skill #vibecoding大赏#AI工具#codex #claude #agent #vibecoding #编程 #ai #大模型",
@@ -604,7 +952,7 @@
       "author": "赛博猫2077",
       "type": "normal",
       "publishTimeText": "昨天 21:06 上海",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 552,
       "collectedCount": 937,
       "commentCount": 23,
@@ -638,7 +986,7 @@
       "author": "量子位",
       "type": "video",
       "publishTimeText": "编辑于 昨天 17:06 北京",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 534,
       "collectedCount": 1074,
       "commentCount": 2,
@@ -669,7 +1017,7 @@
       "author": "跟着阿亮学AI",
       "type": "normal",
       "publishTimeText": "3天前 北京",
-      "publishedAt": "2026-06-08T17:46:10+08:00",
+      "publishedAt": "2026-06-09T17:55:34+08:00",
       "likedCount": 516,
       "collectedCount": 802,
       "commentCount": 37,
@@ -697,7 +1045,7 @@
       "author": "阿囤囤",
       "type": "video",
       "publishTimeText": "2天前 浙江",
-      "publishedAt": "2026-06-09T17:46:10+08:00",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
       "likedCount": 503,
       "collectedCount": 544,
       "commentCount": 16,
@@ -731,7 +1079,7 @@
       "author": "xiaoxiaolla.",
       "type": "normal",
       "publishTimeText": "昨天 12:18 美国",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 493,
       "collectedCount": 745,
       "commentCount": 29,
@@ -747,35 +1095,6 @@
       "matchedReason": "matched AI topic terms"
     },
     {
-      "id": "6a29a78d000000000e031400",
-      "title": "Fable 5 的安全检测，真的稳了吗？",
-      "desc": "🔥 Fable 5 一出来，对大模型安全领域，尤其是 Jailbreak 研究，影响非常大。\n它是 Anthropic 公开版的 Mythos-class 模型，能力很强，但外面加了一层 Safety Classifier。很多 cyber / science 相关请求都会被拦截，或者被切到 Opus 4.8。\n\t\n这让很多人产生了一个直觉：是不是传统安全研究已经很难推进了？是不是最前沿模型的检测器已经足够强了？我们今天测试了一下 Fable 5，结果很意外：不到 1 分钟，我们就成功绕过了它的检测器，并让它产生了不恰当输出。\n\t\n方法来自我们 3 月份的论文：**Internal Safety Collapse（ISC）**：当一个 agent 在没有用户干预的环境下，自主完成一个 long-horizon goal 时，它可能会出现 **self-jailbreak**。\n也就是说，用户并没有直接要求它生成不恰当内容。Agent 只是在 任务里规划、执行、检查、修复；但在某一步，它自己推导出：为了完成目标，下一步需要产生风险输出。\n\t\n🧠 所以，Fable 5 没有大家想象得那么“无懈可击”。\n\t\n这也许是红队研究接下来很重要的一种新思路：不要只研究怎么写更隐蔽的 prompt或者多轮，而是把攻击镶嵌在能力里面。\n\t\n目前我们已经开源：支持复现，也支持验证。\n📄 论文：arXiv 2603.23509\n#AI安全 #大模型 #Claude #Agent #论文分享",
-      "cover": "http://sns-webpic-qc.xhscdn.com/202606111731/f391615b3b92cf4da5a4d98277a866cb/oss-sg/notes_pre_post/1040g3mo3218aphkrng205n13fkt190kmops7b98!nc_n_webp_mw_1",
-      "link": "https://www.xiaohongshu.com/explore/6a29a78d000000000e031400",
-      "author": "wuyoscar",
-      "type": "normal",
-      "publishTimeText": "15小时前 澳大利亚",
-      "publishedAt": "2026-06-11T02:46:10+08:00",
-      "likedCount": 492,
-      "collectedCount": 486,
-      "commentCount": 65,
-      "shareCount": 0,
-      "tags": [
-        "AI安全",
-        "大模型",
-        "Claude",
-        "Agent",
-        "论文分享"
-      ],
-      "matchedKeywords": [
-        "agent"
-      ],
-      "firstSeenAt": "2026-06-11T17:20:26+08:00",
-      "lastSeenAt": "2026-06-11T17:20:26+08:00",
-      "lastDetailAt": "2026-06-11T17:43:03+08:00",
-      "matchedReason": "matched AI topic terms"
-    },
-    {
       "id": "6a28a6b2000000003503294b",
       "title": "保姆级Claude Code速学教程，从0基础到进阶",
       "desc": "小学生都能学会！免费使用文、图、视频生成模型 #Claudecode #程序员  #Agnes  #教程  #vibecoding",
@@ -784,7 +1103,7 @@
       "author": "小白debug",
       "type": "video",
       "publishTimeText": "昨天 12:02 上海",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 446,
       "collectedCount": 723,
       "commentCount": 18,
@@ -813,7 +1132,7 @@
       "author": "香菜不香1",
       "type": "normal",
       "publishTimeText": "编辑于 6小时前 浙江",
-      "publishedAt": "2026-06-11T11:46:10+08:00",
+      "publishedAt": "2026-06-12T11:55:34+08:00",
       "likedCount": 414,
       "collectedCount": 310,
       "commentCount": 22,
@@ -847,7 +1166,7 @@
       "author": "当地较为喜欢猫的人",
       "type": "normal",
       "publishTimeText": "编辑于 昨天 23:38 北京",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 405,
       "collectedCount": 160,
       "commentCount": 174,
@@ -876,7 +1195,7 @@
       "author": "晓东说数",
       "type": "video",
       "publishTimeText": "昨天 11:50 上海",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 385,
       "collectedCount": 590,
       "commentCount": 84,
@@ -908,7 +1227,7 @@
       "author": "AI产品自由",
       "type": "video",
       "publishTimeText": "编辑于 昨天 10:35 浙江",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 379,
       "collectedCount": 518,
       "commentCount": 19,
@@ -939,7 +1258,7 @@
       "author": "longtrip",
       "type": "normal",
       "publishTimeText": "1天前 北京",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 370,
       "collectedCount": 829,
       "commentCount": 24,
@@ -967,7 +1286,7 @@
       "author": "AIGC前端老陈",
       "type": "video",
       "publishTimeText": "9小时前 广东",
-      "publishedAt": "2026-06-11T08:46:10+08:00",
+      "publishedAt": "2026-06-12T08:55:34+08:00",
       "likedCount": 367,
       "collectedCount": 780,
       "commentCount": 1,
@@ -991,6 +1310,154 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a29118e00000000170285ff",
+      "title": "codex科研skill经验分享",
+      "desc": "我最近越来越觉得，做科研用 AI，最重要的不是收藏多少 prompt。\nprompt 很有用，但它太散了。今天一个文献调研，明天一个润色，后天一个审稿意见，时间久了很容易变成一堆复制粘贴。\n我现在更常用 Codex 里的 skill。\n它像是把科研流程拆成几个固定模块：什么时候调研文献，什么时候模拟审稿人，什么时候改文章逻辑，什么时候画图，什么时候整理项目，都不用每次从零说一遍。\n我自己大概这样用：\n文献调研和模拟审稿人，我会用 academic-research-suite。它最有用的地方不是多读几篇文献，而是帮我反复确认：研究问题清不清楚？证据够不够？审稿人可能会卡哪里？\n写文章和画图，我会用 nature-skills。尤其是引言、摘要、discussion 和论文图，我更需要它先看逻辑，而不是只帮我把句子变漂亮。\n语言润色我会用 humanizer，主要是去掉那种很明显的 AI 味，让文字更像人写的。\n我自己还做了两个适合自己学科风格的引言 skill。这个我觉得很重要，因为不同学科的 introduction 写法真的不一样，通用 AI 很容易写得正确但不贴领域。\n项目管理用 planning-with-files，把计划、发现、进度都写到文件里，长任务不容易断。\n最后用 neat-freak 收尾，整理文件夹和项目说明，避免东西都在但谁也找不到。\n所以我现在对 skill 的理解是：它不是让 AI 替我做科研，而是把重复、琐碎、容易忘的环节固定下来。\n真正的研究问题、数据解释和投稿判断，还是要自己负责。AI 适合当工作流助手，不适合替你承担学术责任。\n#skill  #codex #科研学习",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121735/3f1631f86d56bc37f815bcadd97ac8b1/spectrum/1040g34o3217phs8l6u005o46tq9gbibop6b5738!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a29118e00000000170285ff",
+      "author": "拥抱星辰",
+      "type": "normal",
+      "publishTimeText": "2天前 上海",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 347,
+      "collectedCount": 529,
+      "commentCount": 18,
+      "shareCount": 0,
+      "tags": [
+        "skill",
+        "codex",
+        "科研学习"
+      ],
+      "matchedKeywords": [
+        "codex",
+        "skill"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:44:47+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a27fa94000000001c026511",
+      "title": "UniRL：统一多模态模型的RL Infra及新算法",
+      "desc": "🚀 我们开源了 UniRL：一个面向统一多模态模型的分布式 RL 后训练框架。\n\t\n目前多模态领域 RL 仍然缺少生成理解统一的 Infra。图像 / 视频的生成、理解，Prompt-Enhancer (PE)，以及 HunyuanImage-3.0、Bagel 等unified multimodal models，通常都需要各自维护 rollout、reward、advantage、train、weight-sync 逻辑。\n\t\nUniRL 把这些模型接入到同一条 RL 闭环里 (rollout → reward → advantage → train → weight-sync)，从而实现了one for all的支持。\n\t\n这次开源也包含两个团队自研算法：\n\t\n🌟 Flow-DPPO：https://arxiv.org/pdf/2606.11025\n🌟 DRPO：https://arxiv.org/pdf/2606.09821\n\t\n目前UniRL已支持 SD3 / 3.5、Qwen-Image、Wan系列、FLUX、HunyuanVideo、Qwen3、Qwen-VL、PE，以及 HunyuanImage-3.0 / Bagel 等模型，同时支持 SGLang / vLLM-omni rollout、FSDP2 训练以及独立的Reward Server模块。\n\t\nUniRL 不仅能做 diffusion RL，也能做 LLM / VLM RL，以及 AR + diffusion 统一主干模型的联合 RL。\n\t\nCode: https://github.com/Tencent-Hunyuan/UniRL\nDocs: https://unirl-project.github.io/unirl/\n\t\n#大模型 #强化学习 #后训练 #生成模型 #多模态",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121738/d500f511bfa808e56b543251be3b3ab7/spectrum/1040g34o3216naf9nms0g5opj4qmovo80uadgl00!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a27fa94000000001c026511",
+      "author": "庞天宇",
+      "type": "normal",
+      "publishTimeText": "编辑于 2天前 新加坡",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 342,
+      "collectedCount": 253,
+      "commentCount": 21,
+      "shareCount": 0,
+      "tags": [
+        "大模型",
+        "强化学习",
+        "后训练",
+        "生成模型",
+        "多模态"
+      ],
+      "matchedKeywords": [
+        "模型"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:55:02+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a27f6590000000008024396",
+      "title": "Harness翻篇，Loop Engineering来了",
+      "desc": "AI编程新概念：从Harness Engineering到Loop Engineering\n\t\nAI Coding 今天出了个新词很火：Loop Engineering。\n\t\n更准确的源头，是 Addy Osmani 同名文章。他引用了 Peter Steinberger 和 Boris Cherny 的两个信号，然后把它整理成一个工程框架。\n\t\n它不是把 prompt 放进定时器，也不是让 Agent 无限跑。\n\t\n真正的变化是：人退出逐条提示的位置，开始设计一个会持续提示 Agent 的反馈系统。\n\t\n🔁 什么叫一个有价值的 loop？\n→ 先写清楚目标和完成标准\n→ Agent 每轮读代码、跑工具、改文件\n→ 测试、CI、日志、截图给出证据\n→ 通过就停，跑偏就回滚或交给人\n→ 失败经验沉淀成规则、skill、hook\n\t\n🧩 它和 cron 最大区别：\ncron 只负责到点执行。\nloop 要保留上下文，读反馈，调整下一步，还要知道什么时候停止。\n\t\n🛠 为什么现在重要？\nClaude Code 已经有 /loop、hooks、subagents、worktrees、MCP。\nAnthropic 的 long-running harness 用 planner、generator、evaluator 让 Agent 跑多小时任务。\nMartin Fowler 把 harness 拆成 guides 和 sensors。\n\t\n这些东西指向同一个方向：模型之外的控制面，正在变成 AI Coding 的真正工程能力。\n\t\n✅ 适合先做 loop 的任务：\n→ CI 红灯修复\n→ PR review comments 清理\n→ 长测试结束后分析失败\n→ 日志和监控巡检\n→ 依赖升级和文档同步\n\t\n⚠️ 不适合一上来 loop：\n→ 目标很空的大重构\n→ 权限、支付、安全核心链路\n→ 只能靠主观品味判断的产品改造\n\t\n我的判断：\nLoop 工程的重点不是让 Agent 多跑几轮，而是让每一轮都有证据、有边界、有停止条件。\n\t\n#LoopEngineering #harness #HarnessEngineering #vibecoding #claudecode #AI编码",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121736/a34ba767721448ae0cfc5310546465d0/spectrum/1040g0k03216msnsvn0005pcjmvo8ic7k7nqc770!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a27f6590000000008024396",
+      "author": "VibeCoder",
+      "type": "normal",
+      "publishTimeText": "2天前 美国",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 286,
+      "collectedCount": 466,
+      "commentCount": 7,
+      "shareCount": 0,
+      "tags": [
+        "LoopEngineering",
+        "harness",
+        "HarnessEngineering",
+        "vibecoding",
+        "claudecode",
+        "AI编码"
+      ],
+      "matchedKeywords": [
+        "agent"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:53:34+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a280498000000001702e776",
+      "title": "打工人必看！这些AI工具让我少加班三小时",
+      "desc": "不早说！看懂这些AI工具真的能提前下班三小时！\n最近整理了一份「2026年最佳AI工具」金字塔精选清单，发现AI工具已经不是“可选项”，而是工作流必备了。\n\t\n以前我以为AI就是写写文案、问问问题。后来才发现，真正会用AI的人，早就开始按场景选工具了。\n\t\n① Codex｜核心大脑 这次我把 Codex 放在第一层。它不只是写代码，还能帮你做网页、搭小工具、生成原型、跑自动化脚本。不会代码的人，也可以先把想法做出来。\n\t\n② 通用助手 代表工具：ChatGPT、Claude、Perplexity 适合写作、搜索、研究、头脑风暴、整理思路。刚入门AI，可以先从这几个开始。\n\t\n③ 开发/搭建 代表工具：Cursor、Replit、Lovable、Base44 适合写代码、搭产品、做MVP，把想法快速验证出来。\n\t\n④ 内容输出 代表工具：Midjourney、Kling、HeyGen、Descript、Canva、Opus Clip 适合做图片、视频、数字人、短视频剪辑和品牌内容。\n\t\n⑤ 效率办公 代表工具：Notion AI、NotebookLM、Grammarly、Gamma、Granola、Superhuman、Wispr Flow 适合资料整理、PPT、会议纪要、邮件处理、写作润色。\n\t\n⑥ 自动化&集成 代表工具：n8n、Zapier、Lindy AI、Chatbase、Gemini、Apify、Clay、Softr\n适合把不同工具串起来，让重复流程自动跑。我的建议是：别一次性学太多工具。\n写东西慢，就用 ChatGPT/Claude；查资料乱，就用 Perplexity；想搭工具，就用 Codex/Cursor；做内容，就用 Midjourney/Kling/Canva；重复工作多，就研究 n8n/Zapier。\n\t\n2026年真正重要的能力，不是收藏多少AI工具，而是能不能把AI放进自己的工作流里。\n\t\n#AI工具 #AI应用 #人工智能 #Codex #ChatGPT #效率工具 #AI办公 #小红书成长笔记 #自媒体工具 #AI工作流",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121728/936b545d06443f8f3f790463489c517f/1040g2sg3216n208jn2eg5n945bbk7us0quj5deg!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a280498000000001702e776",
+      "author": "小葛聊Ai",
+      "type": "normal",
+      "publishTimeText": "2天前 北京",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 249,
+      "collectedCount": 281,
+      "commentCount": 7,
+      "shareCount": 0,
+      "tags": [
+        "AI工具",
+        "AI应用",
+        "人工智能",
+        "Codex",
+        "ChatGPT",
+        "效率工具",
+        "AI办公",
+        "小红书成长笔记",
+        "自媒体工具",
+        "AI工作流"
+      ],
+      "matchedKeywords": [
+        "codex"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:45:46+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a2a7050000000001702dda4",
+      "title": "应部分同学的求助，研究下self-evolution",
+      "desc": "应部分同学的求助，花了半天研究了一下Agent self-evolution和self-play的工作。目前我对这个方向的判断是 不要再去纠结agent反思得如何，而是这个自我进化闭环里，谁给反馈、更新什么、怎么防止越改越偏。\n\t\nR-Zero、Agent0把任务推到Solver的能力边界，题太简单没有梯度，题太难伪标签不可靠，所以它们都在做uncertainty、filtering、repetition penalty。Search Self-Play、SPIRAL、MARSHAL的insight是self-play的价值不是自己跟自己玩，而是避免静态题库和固定对手带来的过拟合。所以self-play想发 A 会，必须回答一个问题：你的训练信号为什么没有骗模型？ERL、LSE、SEVA不改改参数，而是改 context、heuristic、structured verifier。Misevolution也非常重要，说明Agent进化不一定变好，也可能把安全性带坏，核心价值不是提出更强 agent，而是告诉大家self-evolution的风险面比普通LLM更大。\n\t\n发现了吗，这个方向顶会的研究问题，都来自闭环失败：frontier估计不准、pseudo-label错、课程漂移、memory污染、tool reward被刷、安全性退化、credit assignment粗。所以在做的时候，要把“越进化越强”改成“什么时候会越进化越坏，以及怎么让它可控地变强”。能力提升必须和外部分布、长期迭代、安全回归一起测，而不是只报benchmark涨点。\n\t\n目前我的觉得未来可以挖掘的方向：\nEvolution Diagnostic Benchmark、Anti-Drift Self-Play、Process-Reward Agent Evolution、Memory Anti-Pollution、Secure Tool-Evolving Agents、Multi-Agent Credit Assignment for Real Tasks、Safe Self-Evolution Loop。\n\t\n更好的问题是：现有自进化循环为什么会停滞、漂移、遗忘、奖励作弊或越改越不安全？你抓住了哪个失败模式？你的机制具体修复了哪个变量？这才像一个能往 A 会写的 novelty。\n\t\n#学术 #科研 #导师回复",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121735/d7c3445c3a59d10bd6fbdee9d3ffd6ce/spectrum/1040g0k0321942pe0n0005qh6qia08u007elknko!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2a7050000000001702dda4",
+      "author": "学海泛舟舟",
+      "type": "normal",
+      "publishTimeText": "编辑于 昨天 18:42 江苏",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 225,
+      "collectedCount": 285,
+      "commentCount": 13,
+      "shareCount": 0,
+      "tags": [
+        "学术",
+        "科研",
+        "导师回复"
+      ],
+      "matchedKeywords": [
+        "agent"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:52:25+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a27d9af000000002103ff12",
       "title": "Codex 30 天精通任何领域嘴对嘴教学♥️",
       "desc": "兄弟姐妹们 我可能开播以来 含金量zui高的一篇⚡\n——————\n很多人把 Codex 当\"会写代码的 ChatGPT\"\n其实它远不止这个\n它能在你电脑上 读写文件、跑命令、按规则做事 还能记住你跟它定下的所有规矩\nChatGPT 是把知识讲明白 Codex 是把学习过程\"工程化\"\n——————\n学一个领域 本质上是搭五个系统：\n✅ 知识地图｜不知道这领域有什么\n✅ 术语表｜听不懂专业词\n✅ 练习系统｜以为懂了其实没懂\n✅ 项目系统｜学了一堆但不会用\n✅ 复盘系统｜学完就忘 错了不改\n你以前学不会一个东西 不是因为你笨 是因为你只搭了第一个 剩下四个全靠脑子撑\n——————\n这一篇 我把方法骨架全部公开👇\n📌 一键开仓库 Prompt 📌 AGENTS.md 30 行精简模板 📌 每日学习触发 Prompt 📌 阶段考官 Prompt（每 7 天用一次）\n进阶包（强化版 AGENTS.md + Skill 配套工具）\n放在「Codex 学习工程师」专题里\n进阶集会带你亲手把 Skill 写出来 学一次\n以后学任何领域都是一条命令\n#AI学习方法 #Codex教程  #学习方法 #30天精通  #自学神器  #ChatGPT #Prompt模板  #AI工具  #自我提升 #麦当mdldm",
@@ -999,7 +1466,7 @@
       "author": "麦当mdldm",
       "type": "video",
       "publishTimeText": "编辑于 2天前 浙江",
-      "publishedAt": "2026-06-09T17:46:10+08:00",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
       "likedCount": 223,
       "collectedCount": 324,
       "commentCount": 12,
@@ -1025,6 +1492,39 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a28dc070000000036001c6b",
+      "title": "Claude Fable5上线了！趁还能用干这5件事",
+      "desc": "ps：免费是指6.22后撤出套餐要用得额外花钱\n\t\n昨晚 Anthropic 把那个「太危险不敢公开」的模型放出来了，就是 4 月找出 23000 个漏洞、只给网安机构用的 Mythos，加了道安全闸改名 Fable 5，\nPro/Max 直接能用。\n\t\n但只免费到 6 月 22 号，之后移出订阅要单独买额度。这操作多少有点狗，但白给的旗舰不用是真亏\n\t\n怎么开通、5 个值得烧的任务和能直接抄的 prompt、哪些坑会白烧额度，全在图里\n\t\n这 13 天你打算让它烧什么，评论区聊聊[坏笑R]\n\t\n#Claude #ClaudeCode #fable5 #AI工具 #AI #文科生学ai#ai#vibecoding #大模型",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121730/4b086c2902c19a7e926ff6fe8e3650f0/1040g0083217ised7n0e05pk0vil1omtes9k9lag!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a28dc070000000036001c6b",
+      "author": "Cyrus宇",
+      "type": "normal",
+      "publishTimeText": "编辑于 1天前 福建",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 223,
+      "collectedCount": 217,
+      "commentCount": 94,
+      "shareCount": 0,
+      "tags": [
+        "Claude",
+        "ClaudeCode",
+        "fable5",
+        "AI工具",
+        "AI",
+        "文科生学ai",
+        "ai",
+        "vibecoding",
+        "大模型"
+      ],
+      "matchedKeywords": [
+        "Claude Code"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:47:02+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a282663000000000702fa77",
       "title": "一文讲透 Vibe Coding 中最重要的技能—Git",
       "desc": "Vibe Coding 最怕什么？不是 AI 写不出来，而是它写着写着，把原来能跑的项目改坏了。\n我之前让 Claude Code 给我的工具加个新功能，它信誓旦旦说写完了，我一运行——别说新功能，原来好好的功能也全崩了，控制台满屏飘红。让它回退，回退一次错一次，因为它根本就没有\"版本记忆\"。\n那次之后我才意识到，Vibe Coding 最重要的技能不是提示词，不是选工具，而是 Git。有了 Git，AI 再怎么抽风，你都能一句话回到从前。\nGit 完整学确实复杂，但个人 Vibe Coding 根本用不着那么多。整理了最核心的 6 个命令，滑完这篇就能上手，帮你省掉至少 80% 的无效返工。\n#榨干设备howto #Skill #开发者选项 #文科转码 #编程 #claude #大模型 #vibecoding",
@@ -1033,7 +1533,7 @@
       "author": "Crayon.AI",
       "type": "normal",
       "publishTimeText": "编辑于 1天前 上海",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 219,
       "collectedCount": 318,
       "commentCount": 18,
@@ -1065,7 +1565,7 @@
       "author": "捏捏番茄",
       "type": "normal",
       "publishTimeText": "昨天 22:33 浙江",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 214,
       "collectedCount": 337,
       "commentCount": 28,
@@ -1091,6 +1591,40 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a29335f00000000210174f1",
+      "title": "Codex自动化实战：零售行业数据分析",
+      "desc": "✨ 通过 Codex 调用 Power BI 完成“连锁糕点店经营驾驶舱”项目@知识薯\n.\n👉 Codex 负责数据分析、业务洞察和报告生成，Power BI 负责数据建模与可视化展示，最终形成完整的经营驾驶舱\n.\n📊 从数据导入到经营分析，全流程如下：\n✅ 导入销售订单数据\n✅ 利用 Codex 进行数据清洗\n✅ 自动生成分析思路\n✅ 构建销售指标体系\n✅ 分析商品销售表现\n✅ 分析门店经营情况\n✅ 调动Power BI 搭建经营驾驶舱\n....\n驾驶舱主要包含：\n🍰 销售经营分析\n🍰 商品销量分析\n🍰 热销商品排行\n🍰 门店业绩对比\n......\n💪 项目完整展示了 AI + 数据分析 + BI 可视化的协同工作流程，项目案例已经整理完成，希望能够帮到大家📚\n#数据分析 #数据分析师 #codex #codex教程 #powerbi #powerquery #数据分析学习 #数据分析项目 #数据分析可视化 #AI工具",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121728/e4a2256d0a753d4066891920a9c4f04e/1040g0083217t9fqrno6g5pd51n82t423nutj1m8!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a29335f00000000210174f1",
+      "author": "考拉王数据分析师",
+      "type": "normal",
+      "publishTimeText": "1天前 江苏",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 207,
+      "collectedCount": 239,
+      "commentCount": 162,
+      "shareCount": 0,
+      "tags": [
+        "数据分析",
+        "数据分析师",
+        "codex",
+        "codex教程",
+        "powerbi",
+        "powerquery",
+        "数据分析学习",
+        "数据分析项目",
+        "数据分析可视化",
+        "AI工具"
+      ],
+      "matchedKeywords": [
+        "codex"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:43:57+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a27da8a0000000021008c08",
       "title": "为什么Agent正在重演1968年的软件危机？",
       "desc": "#Claude   #agent  #AI #软件  #codex #hermes  #openclaw #数据分析",
@@ -1099,7 +1633,7 @@
       "author": "happyData",
       "type": "normal",
       "publishTimeText": "昨天 08:52 浙江",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 204,
       "collectedCount": 430,
       "commentCount": 16,
@@ -1123,6 +1657,97 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a291fe90000000022025b4e",
+      "title": "小红书 Skill 上传规范",
+      "desc": "Skill，一种可以让Agent变得可靠、可控、可复用的技能包，但也让工具滥用变得更容易。权限滥用、恶意代码攻击、虚假功能描述——这些行为消耗的，是每一个认真做工具的开发者换来的社区信任。\n小红书正式发布《 Skill 上传规范》，明确平台立场。认真做Skill的开发者，值得被看见、被保护。\n\t\n🌟 小红书鼓励\n- 发布功能描述真实、清晰，有实际使用价值的 Skill，内容具有原创性、创新性\n- 在 Skill 中准确说明所需权限及用途，不超出功能范围请求权限\n- 代码逻辑透明，不包含隐藏行为或后门，确保用户能够按照说明实现预期效果\n- 尊重他人原创，不搬运、抄袭他人 Skill\n\t\n❌ 小红书反对\n- 破坏社区内容真实性的 Skill ，包括：Skill 内置自动化运营小红书账号的能力，如：自动发布笔记、自动回复评论等\n- 提供违法违规服务的 Skill ，包括：博彩赔率分析、违规图片生成、违禁信息传播等\n- 以夸大的功能描述误导用户，或通过 Prompt 在用户不知情的情况下篡改 Agent 的行为\n- 在 Skill 中植入恶意代码，窃取用户凭据、Cookie 或本地数据\n- 诱导 Agent 执行超出用户预期、或 Skill 未声明的隐藏功能\n\t\n平台欢迎每一个有价值的 Skill ，也对滥用能力、损害用户利益的行为保持零容忍。平台将持续建设对 Skill 的风险识别能力，违规 Skill 将被下架处理，情节严重者将限制开发者的发布权限。与此同时，我们也提醒用户在安装他人分享的 Skill 时，注意风险甄别，保护自身账号与数据安全。",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121735/c18cfadd51d9aeb34bec9234d4833e51/spectrum/1040g34o3217r3oue70304a5c6jqcbn5igis7m58!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a291fe90000000022025b4e",
+      "author": "薯管家",
+      "type": "normal",
+      "publishTimeText": "2天前 上海",
+      "publishedAt": "2026-06-10T17:55:34+08:00",
+      "likedCount": 183,
+      "collectedCount": 67,
+      "commentCount": 29,
+      "shareCount": 0,
+      "tags": [],
+      "matchedKeywords": [
+        "skill"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:49:37+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a2acfee0000000022020fa9",
+      "title": "比Cursor好用10倍的AI IDE，无痛项目管理",
+      "desc": "工具分享第三期。这个我最近真的用得有点上头。\n\t\n它叫 VibeYard，号称现在 Vibe Coding 圈里很能打的一个 IDE，专门给 AI Agent 做的。\n我上期讲过 CMUX，这个用下来比它顺手不少，而且 Claude Code、Codex、Gemini CLI 都能在里面管。\n\t\n说几个让我留下来的点。\n\t\n项目管理是按 Session 走的。一个项目对应一个 Session，新建的时候填个地址，create 完它会自动把你电脑里装好的 CLI 拉起来。最爽的是本地调试页面能直接在里面打开，localhost:3000 也好、线上网址也好，不用再开一堆浏览器标签来回切了。\n\t\n然后是多视图。Span 模式下，左边盯着 Coding Agent 干活，右边就能看你要的网页或文件。它还有个东西叫 AI Retinas，会告诉你 AI 现在对这个项目理解得够不够；不够就点 Fix，CLAUDE、AGENTS、GEMINI 这几个 MD 它直接帮你配好。\n\t\n最离谱的是多 Agent。点 New Member，填好角色、名字、提示词，一个子 Agent 就建好了。我现在一个项目里养了四个专家 Agent，说白了就是雇了个小团队替我干活。\n\t\n⚠️关键是：他还能直接选中组件，让你直接清楚准确告诉你要改的组件UI位置！\n而且它开源、免费。你要是也在用 Coding Agent，真的可以去试试。\n\t\n#AI工具 #vibecoding  #ClaudeCode  #程序员  #AI编程  #效率工具 #开源工具 #AIChannel #万物皆可howto #好视频扶持计划",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121735/390bdde85b398af4fa32f47430ec2c8e/spectrum/1040g34o3219fur9nn41049mh6sc4976bbvuba1g!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2acfee0000000022020fa9",
+      "author": "Jayden AI星球",
+      "type": "video",
+      "publishTimeText": "编辑于 16小时前 美国",
+      "publishedAt": "2026-06-12T01:55:34+08:00",
+      "likedCount": 173,
+      "collectedCount": 320,
+      "commentCount": 7,
+      "shareCount": 0,
+      "tags": [
+        "AI工具",
+        "vibecoding",
+        "ClaudeCode",
+        "程序员",
+        "AI编程",
+        "效率工具",
+        "开源工具",
+        "AIChannel",
+        "万物皆可howto",
+        "好视频扶持计划"
+      ],
+      "matchedKeywords": [
+        "vibe coding",
+        "agent"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:48:19+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a2961d30000000016024c31",
+      "title": "/teach 成为高级程序员的步骤",
+      "desc": "/teach是人类满分程序员Matt Pocock最近发布的skill，之前一直在打磨。\n这项技能定义了三件事：知识、技能和智慧。\n它可以教你成为资深人士所需的知识和技能。\n当然，除了编程，它可以用在任何场景。\n\t\n#skill #AI #ai #claude #编程 #agent #claudecode #codex #AI工具",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121734/597c3c537dfc9e5d5d1eb69431e08e53/1040g008321834pphnu0g5on0qms7qkqmsqa0fm8!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2961d30000000016024c31",
+      "author": "ZL的双轨成长",
+      "type": "normal",
+      "publishTimeText": "编辑于 1天前 上海",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 172,
+      "collectedCount": 409,
+      "commentCount": 3,
+      "shareCount": 0,
+      "tags": [
+        "skill",
+        "AI",
+        "ai",
+        "claude",
+        "编程",
+        "agent",
+        "claudecode",
+        "codex",
+        "AI工具"
+      ],
+      "matchedKeywords": [
+        "skill"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:50:04+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a278a000000000021022405",
       "title": "Agent在搜推中的应用和联系",
       "desc": "agent来了之后，其实是把搜索推荐作为能力底层接入，同时对于人的能力和思考上有更大的要求，但本质的方法论和思考并没有发生本质性变化。\n#策略产品经理 #互联网大厂 #职场进阶 #策略产品 #ai产品经理 #get职场新知识 #职场干货",
@@ -1131,7 +1756,7 @@
       "author": "策略AI产品轩廷",
       "type": "normal",
       "publishTimeText": "昨天 18:03 浙江",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 171,
       "collectedCount": 221,
       "commentCount": 7,
@@ -1162,7 +1787,7 @@
       "author": "谷静雯Grace",
       "type": "video",
       "publishTimeText": "编辑于 1天前 北京",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 161,
       "collectedCount": 269,
       "commentCount": 19,
@@ -1190,7 +1815,7 @@
       "author": "Anne",
       "type": "video",
       "publishTimeText": "昨天 11:14 美国",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 159,
       "collectedCount": 283,
       "commentCount": 10,
@@ -1215,37 +1840,37 @@
       "matchedReason": "matched AI topic terms"
     },
     {
-      "id": "6a28e823000000001603faf3",
-      "title": "Claude Code 团队用 Fable 5 的三个方法",
-      "desc": "6 月 9 日 Anthropic 官方放出一支 3 分钟视频，Claude Code 团队的 Thariq 讲他用最强模型 Fable 5 之后改掉的 3 件事：把 Claude 当思考伙伴，先让它反过来采访你再写 spec；用新功能 Goals 和 Workflows 给它设目标加自验；以及更大胆，把你以为大模型做不到的事丢给它试。\n\t\n#Claude #ClaudeCode #ClaudeCode教程 #Fable5 #AI编程 #vibecoding #AIagent #AI工作流 #Anthropic #克劳得Everything",
-      "cover": "http://sns-webpic-qc.xhscdn.com/202606101730/70854b791e6cc9ca0436983323a9e5e6/1040g0083217kgo6g7u005q124ch22vkrk7taol0!nc_n_webp_mw_1",
-      "link": "https://www.xiaohongshu.com/explore/6a28e823000000001603faf3",
-      "author": "克劳得Everything",
+      "id": "6a2a94450000000015024c86",
+      "title": "Codex新手教程：10分钟跑通5个实用功能",
+      "desc": "#人工智能 #ai #codex #codex教程 #agent #vibecoding #aiagent #claudecode #gpt #REDSkill",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121728/8b8cbf9aeac49b1ce57abfbea4449bb6/spectrum/1040g34o32198m0mlms1g49msu7j30l91q8pk3o8!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2a94450000000015024c86",
+      "author": "AI张同学",
       "type": "video",
-      "publishTimeText": "5小时前",
-      "publishedAt": "2026-06-11T12:46:10+08:00",
-      "likedCount": 157,
-      "collectedCount": 151,
-      "commentCount": 7,
+      "publishTimeText": "昨天 18:56 浙江",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 152,
+      "collectedCount": 290,
+      "commentCount": 26,
       "shareCount": 0,
       "tags": [
-        "Claude",
-        "ClaudeCode",
-        "ClaudeCode教程",
-        "Fable5",
-        "AI编程",
+        "人工智能",
+        "ai",
+        "codex",
+        "codex教程",
+        "agent",
         "vibecoding",
-        "AIagent",
-        "AI工作流",
-        "Anthropic",
-        "克劳得Everything"
+        "aiagent",
+        "claudecode",
+        "gpt",
+        "REDSkill"
       ],
       "matchedKeywords": [
-        "Claude Code"
+        "codex"
       ],
-      "firstSeenAt": "2026-06-10T17:26:07+08:00",
-      "lastSeenAt": "2026-06-10T17:26:07+08:00",
-      "lastDetailAt": "2026-06-10T17:45:03+08:00",
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:45:20+08:00",
       "matchedReason": "matched AI topic terms"
     },
     {
@@ -1257,7 +1882,7 @@
       "author": "HiHi小壮",
       "type": "video",
       "publishTimeText": "1天前 上海",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 148,
       "collectedCount": 164,
       "commentCount": 33,
@@ -1282,6 +1907,34 @@
       "matchedReason": "matched AI topic terms"
     },
     {
+      "id": "6a2a58aa0000000022027eb2",
+      "title": "长任务多Agent协作模式",
+      "desc": "长任务多 Agent 协作模式，在公司攻坚两周，人麻了\n一、背景\n上一期讲了用自然语言驱动 SubAgent 做长任务，但还是有如下缺点：\n单主会话 + SubAgent 本质上还是一个上下文，主会话对话越长 → 早期 workflow 指令被\"淹没”，造成指令丢失。\n导致Coding Agent 做完任务，压根没流转到 QA Agent\n\t\n二、解决思路\n多 Agent 协作，每个 Agent 地位平等，没有\"主会话\"来编排 SubAgent， Agent 用独立上下文保证长任务稳定，靠调度器互相交接\n\t\n那么多 Agent 如何协作？这实际上是两个问题\n1、交接给谁？ 任务执行完后，该转给哪位 Agent？\n2、交接、传递什么东西？ Agent 之间交接时，到底传哪些信息？\n\t\n三、解决方案，图2、图3\n问题 1，Issue（任务） 状态机驱动调度，如图 2\n系统中有一个中央调度层，每 5 分钟扫描所有任务 Issue，根据状态以及标签分配任务以及产出相关评论信息。例如：\n1. 当前 Issue 处于技术方案阶段，且人类审核通过 → 分配给 Coding Agent；\n2. 当前Issue 阶段处于Coding Agent 阶段完成 → 分配给QA Agent。\n3. 当前Issue阶段处于QA Agent阶段完成，且测出bug了 → 分配给Coding Agent让他去改。\n\t\n问题 2，Agent交接，图3\n这是最关键的问题：多个Agent在一个项目语境下协同，它们之间怎么传递信息？\n每个 Agent 完成任务后，再结合调度层，会在 Issue任务评论区留下清晰的交接信息：\n1. 交付物在哪里（需求规格、技术方案、自测报告等），说白了就是一个个文件\n2. 关键结论是什么\n3. 下一个执行的 Agent 是谁\n4. 有没有需要人工确认的点\n总之，Agent 之间的信息传递的交接靠三点：可读的交付文件 + Issue 评论留言\n\t\n每个 Agent 完成任务后的结构化产出文件，（例如需求规则，测试报告，技术方案），再结合调度层。多 Agent 协作就能很好的工作了。\n\t\n四、然而..\n一顿操作猛如虎，Agent 是独立了，上下文是干净了， 中央调度器转得飞起……，token 消耗的飞起……\n然后账单来了，钱包率先归零。\n#agent #大模型 #ai #软件",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121736/a7212f3cd4a4de2617e0db59f6ca9cee/spectrum/1040g34o3216seceun0005ocjafhocs1cm5tscq8!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2a58aa0000000022027eb2",
+      "author": "mm",
+      "type": "normal",
+      "publishTimeText": "昨天 18:00 北京",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 137,
+      "collectedCount": 210,
+      "commentCount": 15,
+      "shareCount": 0,
+      "tags": [
+        "agent",
+        "大模型",
+        "ai",
+        "软件"
+      ],
+      "matchedKeywords": [
+        "agent"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:51:27+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
       "id": "6a28134100000000350322f1",
       "title": "DeepSeek V4像一张 AI 芯片考卷。",
       "desc": "刚看完 SemiAnalysis 这篇 DeepSeek V4 推理性能长文，很有意思。\nDeepSeek V4 一出来，被考试的是 NVIDIA、AMD、Huawei、vLLM、SGLang、TensorRT-LLM、ROCm、CANN 这一整套推理生态。\n\t\n省流一下 SemiAnalysis 这篇的几个核心点：\n（字数所限，这部分请阅读截图）\n\t\nDeepSeek V4 的发布，本质上是一次对整个推理生态的年度统考。CUDA 生态依然最强，但华为的 Day 0 支持证明了 CANN 栈的成熟度正在快速提升。AMD 能在 26 天内追 100 倍，说明工程能力没问题，但 Day 0 的差距暴露了 ROCm 生态的脆弱。\nTensorRT-LLM 的翻车，和 vLLM/SGLang 开箱即用的对比，可能是这篇文章最值得玩味的细节。闭源引擎的优化上限可能更高，但在 Day 0 这个时间窗口里，开源生态的响应速度是不可替代的。\n问题变成了：当中国最好的开源模型之一（DeepSeek），遇上中国最好的 AI 芯片软件栈（CANN），这种 co-design 的优势会持续多久？NVIDIA 的护城河到底在硬件还是在软件？\n感觉这个问题，可能比模型本身的参数量重要得多。\n\t\n#DeepSeek #AI大模型 #开源模型 #infra #算法工程师 #推理优化 #AI芯片 #华为 #SGLang #vLLM #英伟达",
@@ -1290,7 +1943,7 @@
       "author": "AI Dance",
       "type": "normal",
       "publishTimeText": "1天前 日本",
-      "publishedAt": "2026-06-10T17:46:10+08:00",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
       "likedCount": 135,
       "collectedCount": 76,
       "commentCount": 33,
@@ -1314,6 +1967,56 @@
       "firstSeenAt": "2026-06-11T17:20:26+08:00",
       "lastSeenAt": "2026-06-11T17:20:26+08:00",
       "lastDetailAt": "2026-06-11T17:45:39+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a293fe900000000350275a3",
+      "title": "小红书 Skill 上传规范",
+      "desc": "Skill，一种可以让Agent变得可靠、可控、可复用的技能包，但也让工具滥用变得更容易。权限滥用、恶意代码攻击、虚假功能描述——这些行为消耗的，是每一个认真做工具的开发者换来的社区信任。\n小红书正式发布《 Skill 上传规范》，明确平台立场。认真做Skill的开发者，值得被看见、被保护。\n\t\n🌟 小红书鼓励\n- 发布功能描述真实、清晰，有实际使用价值的 Skill，内容具有原创性、创新性\n- 在 Skill 中准确说明所需权限及用途，不超出功能范围请求权限\n- 代码逻辑透明，不包含隐藏行为或后门，确保用户能够按照说明实现预期效果\n- 尊重他人原创，不搬运、抄袭他人 Skill\n\t\n❌ 小红书反对\n- 破坏社区内容真实性的 Skill ，包括：Skill 内置自动化运营小红书账号的能力，如：自动发布笔记、自动回复评论等\n- 提供违法违规服务的 Skill ，包括：博彩赔率分析、违规图片生成、违禁信息传播等\n- 以夸大的功能描述误导用户，或通过 Prompt 在用户不知情的情况下篡改 Agent 的行为\n- 在 Skill 中植入恶意代码，窃取用户凭据、Cookie 或本地数据\n- 诱导 Agent 执行超出用户预期、或 Skill 未声明的隐藏功能\n\t\n平台欢迎每一个有价值的 Skill ，也对滥用能力、损害用户利益的行为保持零容忍。平台将持续建设对 Skill 的风险识别能力，违规 Skill 将被下架处理，情节严重者将限制开发者的发布权限。与此同时，我们也提醒用户在安装他人分享的 Skill 时，注意风险甄别，保护自身账号与数据安全。\n#Skill #REDSkill大赏 #REDskill",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121735/9c225d6641f198602e265da512eed22b/1040g2sg3217v8k9sms705pkcpsk0uc8tpobefuo!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a293fe900000000350275a3",
+      "author": "科技薯",
+      "type": "normal",
+      "publishTimeText": "编辑于 2小时前 上海",
+      "publishedAt": "2026-06-12T15:55:34+08:00",
+      "likedCount": 120,
+      "collectedCount": 71,
+      "commentCount": 16,
+      "shareCount": 0,
+      "tags": [
+        "Skill",
+        "REDSkill大赏",
+        "REDskill"
+      ],
+      "matchedKeywords": [
+        "skill"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:50:30+08:00",
+      "matchedReason": "matched AI topic terms"
+    },
+    {
+      "id": "6a2a9126000000000702ed01",
+      "title": "【腾讯一面】怎么评估Agent 系统的质量？",
+      "desc": "除了端到端准确率，还有哪些指标？ 90%的人搞错了，Agent评测根本不是考准确率",
+      "cover": "http://sns-webpic-qc.xhscdn.com/202606121736/c08d2df9833e404b66f0c11d4e9e3b00/spectrum/1040g0k032198e19874005oq155k65edillj6cig!nc_n_webp_mw_1",
+      "link": "https://www.xiaohongshu.com/explore/6a2a9126000000000702ed01",
+      "author": "龙哥搞大模型",
+      "type": "video",
+      "publishTimeText": "昨天 18:42 湖南",
+      "publishedAt": "2026-06-11T17:55:34+08:00",
+      "likedCount": 115,
+      "collectedCount": 236,
+      "commentCount": 3,
+      "shareCount": 0,
+      "tags": [],
+      "matchedKeywords": [
+        "agent"
+      ],
+      "firstSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastSeenAt": "2026-06-12T17:25:35+08:00",
+      "lastDetailAt": "2026-06-12T17:52:00+08:00",
       "matchedReason": "matched AI topic terms"
     }
   ],
