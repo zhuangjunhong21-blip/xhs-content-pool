@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/zhuangjunhong21-blip/xhs-content-pool/main/poo
 - 去重键：小红书 `note_id`
 - 内容范围：标题、正文、封面、原始链接、作者名、发布时间、互动数、标签、命中关键词、选题评分、视觉摘要、视频视觉 OCR、视频画面理解、内容摘要、高赞原因
 - 分发规则：GitHub 是完整远端数据表；Obsidian 每日文件夹只写当天新增内容，不再写近 3 天滚动快照
-- 视觉理解：通过 OpenClaw `minimax-direct/MiniMax-M3` 对当天新增笔记封面做视觉摘要；视频内容不再使用 ASR，改为每秒抽帧并用 M3 视觉 OCR 提取字幕/画面文字，另抽少量帧分析画面风格和封面元素；当前只按 `note_id` 与分析状态避免重复处理，不做二级媒体指纹去重
+- 视觉理解：通过 OpenClaw `minimax-direct/MiniMax-M3` 对当天新增笔记封面做视觉摘要；视频内容不再使用 ASR，改为每秒抽帧并用 M3 视觉 OCR 提取字幕/画面文字，OCR 输出统一为中文：中英字幕只保留中文，纯英文字幕翻译成中文；另抽少量帧分析画面风格和封面元素；当前只按 `note_id` 与分析状态避免重复处理，不做二级媒体指纹去重
 - 内容理解：媒体增强后调用 OpenClaw 文本模型生成 `contentSummary`、`highLikeReason`、`contentTopicTags`，用于 GitHub 数据表、Obsidian 每日新增阅读和后续 agent 选题复用
 
 ## 数据边界
