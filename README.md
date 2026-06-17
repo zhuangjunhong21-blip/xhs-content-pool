@@ -24,9 +24,10 @@ https://raw.githubusercontent.com/zhuangjunhong21-blip/xhs-content-pool/main/poo
 - 详情队列二次校验：只给当天新入库候选抓详情；明确超过 72 小时的候选不占详情抓取名额；无法解析的候选仍保留
 - 热度阈值：点赞数 `>= 100`
 - 去重键：小红书 `note_id`
-- 内容范围：标题、正文、封面、原始链接、作者名、发布时间、互动数、标签、命中关键词、选题评分、视觉摘要、视频口播转写、字幕 OCR、视频画面理解
+- 内容范围：标题、正文、封面、原始链接、作者名、发布时间、互动数、标签、命中关键词、选题评分、视觉摘要、视频口播转写、字幕 OCR、视频画面理解、内容摘要、高赞原因
 - 分发规则：GitHub 是完整远端数据表；Obsidian 每日文件夹只写当天新增内容，不再写近 3 天滚动快照
 - 视觉理解：通过 OpenClaw `minimax-direct/MiniMax-M3` 对当天新增笔记封面做视觉摘要；视频内容优先使用口播转写和字幕 OCR，抽帧只分析画面风格和封面元素；当前只按 `note_id` 与分析状态避免重复处理，不做二级媒体指纹去重
+- 内容理解：媒体增强后调用 OpenClaw 文本模型生成 `contentSummary`、`highLikeReason`、`contentTopicTags`，用于 GitHub 数据表、Obsidian 每日新增阅读和后续 agent 选题复用
 
 ## 数据边界
 
