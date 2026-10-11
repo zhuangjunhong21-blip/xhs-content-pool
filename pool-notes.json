@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-11T22:54:42+08:00",
+  "generatedAt": "2026-10-11T22:55:14+08:00",
   "sourceType": "xiaohongshu",
   "rules": {
     "keywords": [
@@ -99,7 +99,7 @@
   },
   "stats": {
     "noteCount": 3105,
-    "obsidianNewNoteCount": 16,
+    "obsidianNewNoteCount": 17,
     "totalNotesInDb": 4328,
     "skipped": {
       "noDetail": 1184,
@@ -176217,7 +176217,6 @@
       "coverClassifiedAt": "",
       "score": 52,
       "scoreReasons": [
-        "24小时内发布",
         "视频素材"
       ],
       "isNewInPool": false,
