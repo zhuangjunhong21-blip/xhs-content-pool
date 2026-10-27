@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-27T23:31:21+08:00",
+  "generatedAt": "2026-10-27T23:33:22+08:00",
   "sourceType": "xiaohongshu",
   "rules": {
     "keywords": [
@@ -20476,7 +20476,6 @@
         "点赞破千",
         "收藏强于点赞",
         "评论讨论度高",
-        "24小时内发布",
         "多关键词命中",
         "命中高价值AI工具/工作流词"
       ],
@@ -320543,7 +320542,6 @@
       "coverClassifiedAt": "",
       "score": 44,
       "scoreReasons": [
-        "24小时内发布",
         "视频素材"
       ],
       "isNewInPool": false,
