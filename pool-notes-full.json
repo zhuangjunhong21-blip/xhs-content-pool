@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-27T22:34:07+08:00",
+  "generatedAt": "2026-10-27T22:36:08+08:00",
   "sourceType": "xiaohongshu",
   "rules": {
     "keywords": [
@@ -353381,7 +353381,6 @@
       "coverClassifiedAt": "2026-08-19T02:05:21+08:00",
       "score": 42,
       "scoreReasons": [
-        "24小时内发布",
         "视频素材"
       ],
       "isNewInPool": false,
