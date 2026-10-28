@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-28T10:54:50+08:00",
+  "generatedAt": "2026-10-28T10:57:00+08:00",
   "sourceType": "xiaohongshu",
   "rules": {
     "keywords": [
@@ -14940,7 +14940,6 @@
       "score": 72,
       "scoreReasons": [
         "点赞破千",
-        "24小时内发布",
         "多关键词命中",
         "命中高价值AI工具/工作流词",
         "视频素材"
@@ -195033,7 +195032,6 @@
       "coverClassifiedAt": "",
       "score": 53,
       "scoreReasons": [
-        "24小时内发布",
         "命中高价值AI工具/工作流词",
         "视频素材"
       ],
@@ -232744,7 +232742,6 @@
       "coverClassifiedAt": "",
       "score": 51,
       "scoreReasons": [
-        "24小时内发布",
         "命中高价值AI工具/工作流词"
       ],
       "isNewInPool": false,
@@ -277456,7 +277453,6 @@
       "coverClassifiedAt": "",
       "score": 48,
       "scoreReasons": [
-        "24小时内发布",
         "视频素材"
       ],
       "isNewInPool": false,
